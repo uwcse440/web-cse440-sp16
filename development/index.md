@@ -2,7 +2,7 @@
 layout: base/bar-sidebar-none
 title: Development Guide
 
-working_directory: web-fogies
+working_directory: web-cse440-sp16
 ---
 
 # Building a Jekyll Site
@@ -12,6 +12,10 @@ This site is implemented in Jekyll, thus requiring Ruby and Node.js. We also use
 {% comment %}
 Packages installed by the above can sometimes require a native compiler, for which we use Microsoft Visual Studio.
 {% endcomment %}
+
+Please remember not to attempt to integrate your project site with our build process.
+It will be much simpler to submit a static set of pages that can be served from your assigned directory.
+You may nevertheless find it helpful to build our site as part of confirming that your file integrate correctly.
 
 ## Installing Node.js, Python, Ruby, and Ruby DevKit
 
@@ -140,3 +144,23 @@ To build the site:
 To build and serve the site on `localhost:4000`, continuously updating based on changes:
 
     invoke serve_test
+
+## Submitting Changes via Pull Request
+
+This course website lives on GitHub:
+
+<https://github.com/uwcse440/web-cse440-au15> 
+
+We recommend the GitHub Desktop client:
+
+<https://desktop.github.com/>
+
+You can submit pull requests, and should be certain you submit them via feature branches:
+
+<https://guides.github.com/introduction/flow/>
+
+<https://www.atlassian.com/git/tutorials/comparing-workflows>
+
+<https://spring.io/blog/2010/12/21/social-coding-in-spring-projects>
+
+<http://codeinthehole.com/writing/pull-requests-and-other-good-practices-for-teams-using-github/>
