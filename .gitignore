@@ -1,0 +1,16 @@
+# PyCharm settings
+.idea
+
+# Jekyll's build of the site
+.jekyll-metadata
+_site
+
+# Our Python environment
+env34
+env35
+
+# Compiled Python
+*.pyc
+
+# Installed node packages
+node_modules

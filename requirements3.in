@@ -1,0 +1,3 @@
+invoke
+nose
+pyyaml --global-option='--without-libyaml'
