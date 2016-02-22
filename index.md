@@ -3,6 +3,10 @@ layout: base/bar-sidebar-none
 title: Course Overview
 ---
 
+~~~
+This website is under development and all content is subject to change.
+~~~
+
 # Course Description
 
 This course provides an introduction to human-computer interaction and the design process. 
