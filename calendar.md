@@ -3,6 +3,12 @@ layout: base/bar-sidebar-none
 title: Calendar
 ---
 
+~~~
+This website is under development and all content is subject to change.
+
+See _data/calendar.yml
+~~~
+
 {% comment %} Starting from the first date of instruction, find Sunday {% endcomment %}
 {% assign startdateseconds = site.data.calendar.dates_of_instruction.start | append: 'Z' | date: '%s' %}
 {% assign startdayofweek = startdateseconds | date: '%w' %}
