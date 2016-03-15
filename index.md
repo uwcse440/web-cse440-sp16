@@ -9,8 +9,12 @@ This website is under development and all content is subject to change.
 
 # Course Description
 
-This course provides an introduction to human-computer interaction and the design process. 
-It is overwhelmingly organized around a group project, in which students:
+This course provides an introduction to human-computer interaction and the design process.  
+Students will learn methods and skills involved in designing and prototyping interactive 
+systems. The course covers the design process from the initial formulation of a design problem 
+to creation of digital prototypes. The class structure is a mix of classroom design activities, 
+lectures, and design critiques of student work by peers and instructor. The course is 
+overwhelmingly organized around a group project, in which students:
 
 - Ideate and Propose Design Problems
 - Study Existing Practices and Challenges
@@ -18,23 +22,36 @@ It is overwhelmingly organized around a group project, in which students:
 - Evaluate and Improve a Design
 - Communicate their Problem and Resulting Design
 
+### Learning Objectives
+
+- Process-focused perspective on interaction design
+- Design methods and skills
+- Sketching techniques
+- Scenarios and storyboarding
+- Wireframing and prototyping
+- Thinking critically about design solutions
+ 
 # Project Theme
 
-Projects are exploring challenges and opportunities in self-tracking, also known as Personal Informatics:
+Social software continues to pervade our daily lives, influencing with whom we connect, the 
+news to which we are exposed and the entertainment with which we amuse ourselves. In addition 
+to our online social networks of friendship and shared interests, everyone also lives in a 
+specific physical community.  Each community is a locale with a distinct mix of individuals, 
+resources and needs, with the particular complications of space, awareness and privacy that 
+go along right in hand. Considering both the benefits and challenges of physical proximity, 
+what kinds of applications, interactions or services can we design that support and leverage 
+our communities?  
 
-> Personal informatics systems are systems that help people collect personally relevant information for the purpose of 
-> self-reflection and gaining self-knowledge.
->
-> [Li _et al._, 2010]({{ site.baseurl }}/readings/PersonalInformatics-Li2010.pdf).
+Over the course of the semester, your group project will be to design a system to an activity 
+or relationship within the particular context of a community that is not sufficiently well supported 
+by current tools. 
 
-Personal informatics relates heavily to the [Quantified Self](http://quantifiedself.com/) movement, which emphasizes:
-
-> Self-knowledge through numbers.
->
-> [Gary Wolf, 2009](http://archive.wired.com/medtech/health/magazine/17-07/lbnp_knowthyself)
-
-People have long sought to better understand themselves, but recently technology advances are enabling fundamentally new approaches. 
-Students will examine the problems people encounter, then explore how new technology can go beyond the data fetish to help people in reaching their goals. 
+As part of your project, you’ll need to define what the specific community-focused activity is you 
+wish to address and what aspects of it you are trying to support.  Think about how that activity 
+is currently supported via technology, what doesn’t work about current ways of supporting it, 
+and how your solution will do this better. The specificity of addressing a particular community 
+allows you to deeply think about what makes the location/community unique and how you would best 
+want to support it. So, dive in and see what you can come up with. 
 
 # Project Structure
 
@@ -65,27 +82,23 @@ A small set of readings are assigned throughout the quarter, with additional res
 
 __Contact__: Email all instructors at cse440-instr [at] cs.washington.edu
 
-~~~
-__Class Time & Location__: Tuesdays & Thursdays, 12:00-1:50 MOR 230
-~~~
+__Class Time & Location__: Tuesdays & Thursdays, 10:30-11:50 JHN 175
 
-~~~
 __Section Times & Locations__: 
 
-- Fridays, 10:30-11:20 MGH 228
-- Fridays, 11:30-12:20 MGH 295
+- Fridays, 10:30-11:20 MGH 254
+- Fridays, 11:30-12:20 MGH 254
 - Fridays, 1:30-2:20 MGH 254
 - Fridays, 2:30-3:20 MGH 254
-~~~
 
 ~~~
 __Office Hours__: 
 
 Scheduled hours are held most weeks, but check the calendar:
 
-- James, Tuesdays, 4:30 - 5:30, CSE 666 
-- Lauren, Wednesdays, 1:30 - 2:30, CSE 218 
-- Alex, Thursday, 1:30 - 2:30, CSE 218
+- Katharina, Tuesdays, 2:30 - 3:30, CSE 566 
+- Alex, Wednesdays, 1:30 - 2:30, CSE 218
+- Catie, Thursday, 1:30 - 2:30, CSE 218
 ~~~
   
 Other meetings by appointment.
@@ -108,7 +121,7 @@ __Course Staff__:
     </div>
     <div class="col-md-2">
       <p>Saba Kawas</p>
-      <p><img src="{{ site.baseurl }}/images/saba_photo.jpg" width="150" alt="Saba Kawas"/></p>
+      <p><img src="{{ site.baseurl }}/images/saba_photo.png" width="150" alt="Saba Kawas"/></p>
     </div>
     <div class="col-md-2">
       <p>Kelsey Munsell</p>
@@ -119,7 +132,9 @@ __Course Staff__:
 
 # Grading
 
-The overall course grade will be computed as follows:
+You should do good work in this class because you care about your project and because you want to 
+learn how to design interactive systems. That said, the university makes us use grades, so here is 
+how grades will work in this class:
 
 - Group Project (__65%__)
   - Assignment 1, Project Proposal (__3%__)
