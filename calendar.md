@@ -5,8 +5,6 @@ title: Calendar
 
 ~~~
 This website is under development and all content is subject to change.
-
-See _data/calendar.yml
 ~~~
 
 {% comment %} Starting from the first date of instruction, find Sunday {% endcomment %}

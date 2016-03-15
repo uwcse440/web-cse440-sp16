@@ -9,12 +9,7 @@ This website is under development and all content is subject to change.
 
 # Course Description
 
-This course provides an introduction to human-computer interaction and the design process.  
-Students will learn methods and skills involved in designing and prototyping interactive 
-systems. The course covers the design process from the initial formulation of a design problem 
-to creation of digital prototypes. The class structure is a mix of classroom design activities, 
-lectures, and design critiques of student work by peers and instructor. The course is 
-overwhelmingly organized around a group project, in which students:
+This course provides an introduction to human-computer interaction and the design process. Students will learn methods and skills involved in designing and prototyping interactive systems. The course covers the design process from the initial formulation of a design problem to creation of digital prototypes. The class structure is a mix of classroom design activities, lectures, and design critiques of student work by peers and instructor. The course is overwhelmingly organized around a group project, in which students:
 
 - Ideate and Propose Design Problems
 - Study Existing Practices and Challenges
@@ -33,25 +28,14 @@ overwhelmingly organized around a group project, in which students:
  
 # Project Theme
 
-Social software continues to pervade our daily lives, influencing with whom we connect, the 
-news to which we are exposed and the entertainment with which we amuse ourselves. In addition 
-to our online social networks of friendship and shared interests, everyone also lives in a 
-specific physical community.  Each community is a locale with a distinct mix of individuals, 
-resources and needs, with the particular complications of space, awareness and privacy that 
-go along right in hand. Considering both the benefits and challenges of physical proximity, 
-what kinds of applications, interactions or services can we design that support and leverage 
-our communities?  
+Social software continues to pervade our daily lives, influencing with whom we connect, the news to which we are exposed and the entertainment with which we amuse ourselves. In addition to our online social networks of friendship and shared interests, everyone also lives in a specific physical community.  Each community is a locale with a distinct mix of individuals, resources and needs, with the particular complications of space, awareness and privacy that go along right in hand. Considering both the benefits and challenges of physical proximity, what kinds of applications, interactions or services can we design that support and leverage our communities?  
 
-Over the course of the semester, your group project will be to design a system to an activity 
-or relationship within the particular context of a community that is not sufficiently well supported 
+Over the course of the semester, your group project will be to design a system to an activity or relationship within the particular context of a community that is not sufficiently well supported 
 by current tools. 
 
-As part of your project, you’ll need to define what the specific community-focused activity is you 
-wish to address and what aspects of it you are trying to support.  Think about how that activity 
-is currently supported via technology, what doesn’t work about current ways of supporting it, 
-and how your solution will do this better. The specificity of addressing a particular community 
-allows you to deeply think about what makes the location/community unique and how you would best 
-want to support it. So, dive in and see what you can come up with. 
+As part of your project, you’ll need to define what the specific community-focused activity is you wish to address and what aspects of it you are trying to support.  Think about how that activity 
+is currently supported via technology, what doesn’t work about current ways of supporting it, and how your solution will do this better. The specificity of addressing a particular community 
+allows you to deeply think about what makes the location/community unique and how you would best want to support it. So, dive in and see what you can come up with. 
 
 # Project Structure
 
@@ -91,13 +75,14 @@ __Section Times & Locations__:
 - Fridays, 1:30-2:20 MGH 254
 - Fridays, 2:30-3:20 MGH 254
 
-~~~
 __Office Hours__: 
 
 Scheduled hours are held most weeks, but check the calendar:
 
 - Katharina, Tuesdays, 2:30 - 3:30, CSE 566 
 - Alex, Wednesdays, 1:30 - 2:30, CSE 218
+
+~~~
 - Catie, Thursday, 1:30 - 2:30, CSE 218
 ~~~
   
