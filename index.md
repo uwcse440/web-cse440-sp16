@@ -102,11 +102,11 @@ __Course Staff__:
     </div>
     <div class="col-md-2">
       <p>Alex Fiannaca</p>
-      <p><img src="{{ site.baseurl }}/images/alex_photo.png" width="150" alt="Alex Fiannaca"/></p>
+      <p><img src="{{ site.baseurl }}/images/alex_photo.jpg" width="150" alt="Alex Fiannaca"/></p>
     </div>
     <div class="col-md-2">
       <p>Saba Kawas</p>
-      <p><img src="{{ site.baseurl }}/images/saba_photo.png" width="150" alt="Saba Kawas"/></p>
+      <p><img src="{{ site.baseurl }}/images/saba_photo.jpg" width="150" alt="Saba Kawas"/></p>
     </div>
     <div class="col-md-2">
       <p>Kelsey Munsell</p>

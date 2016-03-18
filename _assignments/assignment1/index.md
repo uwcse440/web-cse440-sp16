@@ -2,13 +2,13 @@
 layout: base/bar-sidebar-none
 title: "Assignment 1: Project Proposal"
 
-link_project_1a: https://canvas.uw.edu/courses/987987/assignments/3000656
-date_project_1a: Friday, October 2, 2015
-link_project_1b: https://canvas.uw.edu/courses/987987/assignments/3000658
-date_project_1b: Tuesday, October 6, 2015
-link_project_1c_projects: https://canvas.uw.edu/courses/987987/discussion_topics/3047301
-link_project_1c_bids: https://canvas.uw.edu/courses/987987/quizzes/860487
-date_project_1c_bids: Thursday, October 8, 2015
+link_project_1a: 
+date_project_1a: Friday, April 1, 2016
+link_project_1b: 
+date_project_1b: Tuesday, April 5, 2016
+link_project_1c_projects: 
+link_project_1c_bids: 
+date_project_1c_bids: Thursday, April 7, 2016
 ---
 
 # Overview
@@ -40,7 +40,7 @@ This is an individual assignment, consisting of three milestones.
 
 # Project Description
 
-The theme for projects in this course is __personal informatics__:
+The theme for projects in this course is __community support and engagement__:
 
 > Personal informatics systems are systems that help people collect personally relevant information for the purpose of 
 > self-reflection and gaining self-knowledge.

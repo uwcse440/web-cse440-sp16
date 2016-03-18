@@ -2,8 +2,8 @@
 layout: base/bar-sidebar-none
 title: "Assignment 0: Introduction Slide"
 
-link_assignment_0: https://canvas.uw.edu/courses/987987/assignments/3000074
-date_assignment_0: Thursday, October 8, 2015
+link_assignment_0: 
+date_assignment_0: Thursday, April 7, 2016
 ---
 
 # Overview
