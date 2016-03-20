@@ -46,6 +46,10 @@ This is an individual assignment, consisting of three milestones.
 
 The theme for projects in this course is __community support and engagement__:
 
+~~~
+The following sections still need to be updated to the current project theme...
+~~~
+
 > Personal informatics systems are systems that help people collect personally relevant information for the purpose of 
 > self-reflection and gaining self-knowledge.
 >
