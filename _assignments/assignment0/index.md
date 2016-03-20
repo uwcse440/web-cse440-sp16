@@ -6,6 +6,10 @@ link_assignment_0:
 date_assignment_0: Thursday, April 7, 2016
 ---
 
+~~~
+This website is under development and all content is subject to change.
+~~~
+
 # Overview
 
 Submit an informal slide that will help us as we get to know you:

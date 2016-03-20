@@ -2,23 +2,33 @@
 layout: base/bar-sidebar-none
 title: "Assignment 4: Communicating Your Design"
 
-link_project_4a: https://canvas.uw.edu/courses/987987/assignments/3055624 
-date_project_4a: Tuesday, December 1, 2015
+# Initial Website
+link_project_4a: 
+date_project_4a: Friday, May 27, 2016
 
-link_project_4b: https://canvas.uw.edu/courses/987987/assignments/3056710
-date_project_4b: Tuesday, December 8, 2015
+# Initial Video Prototype
+link_project_4b: 
+date_project_4b: Tuesday, May 31, 2016
 
-link_project_4c: https://canvas.uw.edu/courses/987987/assignments/3056711
-date_project_4c: Thursday, December 10, 2015
+# Poster Critique and Pitch
+link_project_4c: 
+date_project_4c: Thursday, June 2, 2016
 
-date_project_4d: Friday, December 11, 2015
+# Communication Critique
+date_project_4d: Friday, June 3, 2016
 
-link_project_4e: https://canvas.uw.edu/courses/987987/assignments/3056712
-date_project_4e: Tuesday, December 15, 2015
+# Final Poster, Video, and Website
+link_project_4e: 
+date_project_4e: Monday, June 6, 2016
 
-date_project_4f: 10:30 to 12:20, Thursday, December 17, 2015
+# Poster Session
+date_project_4f: __Tentatively__ 11:00 to 12:20, Tuesday, June 7, 2016
 
 ---
+
+~~~
+This website is under development and all content is subject to change.
+~~~
 
 # Overview
 

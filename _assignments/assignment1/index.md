@@ -11,6 +11,10 @@ link_project_1c_bids:
 date_project_1c_bids: Thursday, April 7, 2016
 ---
 
+~~~
+This website is under development and all content is subject to change.
+~~~
+
 # Overview
 
 You are to propose a __problem__ and an __approach__ that could form the basis of a project for this course.

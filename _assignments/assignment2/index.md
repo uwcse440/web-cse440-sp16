@@ -2,36 +2,49 @@
 layout: base/bar-sidebar-none
 title: "Assignment 2: Getting the Right Design"
 
-date_project_2a: Friday, October 9, 2015
+# Project Ideation
+date_project_2a: Friday, April 8, 2016
 
-link_project_2b: https://canvas.uw.edu/courses/987987/assignments/3016432
-link_project_2b_critique: https://canvas.uw.edu/courses/987987/assignments/3017985
-date_project_2b: Tuesday, October 13, 2015
+# CI Plan
+link_project_2b: 
+link_project_2b_critique: 
+date_project_2b: Tuesday, April 12, 2016
 
-link_project_2c: https://canvas.uw.edu/courses/987987/assignments/3016469
-date_project_2c: Friday, October 16, 2015
+# CI Check-In
+link_project_2c: 
+date_project_2c: Friday, April 15, 2016
 
-link_project_2d: https://canvas.uw.edu/courses/987987/assignments/3022206
-link_project_2d_critique: https://canvas.uw.edu/courses/987987/assignments/3024240
-date_project_2d: Tuesday, October 20, 2015
+# CI Review
+link_project_2d: 
+link_project_2d_critique: 
+date_project_2d: Tuesday, April 19, 2015
 
-link_project_2e: https://canvas.uw.edu/courses/987987/assignments/3022211
-date_project_2e: Friday, October 23, 2015
+# Task Review
+link_project_2e: 
+date_project_2e: Friday, April 22, 2015
 
-link_project_2f: https://canvas.uw.edu/courses/987987/assignments/3022221
-link_project_2f_critique: https://canvas.uw.edu/courses/987987/assignments/3029342
-date_project_2f: Tuesday, October 27, 2015
+# Design Check-In
+link_project_2f: 
+link_project_2f_critique: 
+date_project_2f: Tuesday, April 26, 2015
 
-link_project_2g: https://canvas.uw.edu/courses/987987/assignments/3029616
-date_project_2g: Friday, October 30, 2015
+# Design Review
+link_project_2g: 
+date_project_2g: Friday, April 29, 2015
 
-link_project_2h: https://canvas.uw.edu/courses/987987/assignments/3029620
-date_project_2h: Tuesday, November 3, 2015
+# Getting the Right Design
+link_project_2h: 
+date_project_2h: Tuesday, May 3, 2015
 
-link_project_2i: https://canvas.uw.edu/courses/987987/assignments/3029622
-date_project_2i: Thursday, November 5, 2015
+# Presentation
+link_project_2i: 
+date_project_2i: Tuesday, May 3, 2015
 
 ---
+
+~~~
+This website is under development and all content is subject to change.
+~~~
 
 # Overview
 
@@ -164,7 +177,7 @@ Due: Completed in section on {{ page.date_project_2a }}
 Generate 5 to 10 different ideas related to each of the following aspects of your project proposal:
 
 - Forms: types of technology on which a design might be developed (e.g., desktop, phone/tablet, sensor, watch, wearable).
-- Data: types of data that a design might track or help a person track. 
+- Interactions: types of social situations that a design might engage or support. 
 - Features: a specific capability a design might have. 
 - Tasks: what a person might accomplish with a design. 
 
@@ -180,7 +193,7 @@ When you get stuck, find a context to inspire new ideas.
 Given a space of possible directions, your project needs to begin to gather information on how to generate and consider ideas. 
 Following up on the above, additionally brainstorm:
  
-- People: types of people you might work with to learn more.
+- Communities: types of people you might work with to learn more.
 - Foci: potential foci you might apply in your learning.
 
 The goal is to begin thinking about how to plan effective contextual inquiries toward your design process.
@@ -276,6 +289,8 @@ can be difficult to get right and often important topics are left unresolved.
 - What are your plans for the remaining inquiries? 
 - How do you plan to change your protocol based on what you learned in your first inquiry?
 
+__REMEMBER__: All names of inquiry participants should be replaced with pseudonyms in all documents you submit to us! It is important to protext the identity of your participants even in the case that your study seems harmless.
+
 ### Examples from Prior Offerings
 
 Examples from prior offerings include:
@@ -317,6 +332,8 @@ Across the three inquiries, we expect some emergence of common themes, problems,
 
 - Identify high level themes the participants share in their practices. 
 - Do these themes, problems, and practices suggest tasks to important to design for?
+
+If you are having trouble identifying high level themes and problems from your inquiries, it may be a sign that you need to run an additional inquiry. You are required to run three inquiries, but you are not limited to only running three. These inquiries are critical for setting the foundation of your project, so ensure that you have strong findings from your inquiries before moving forward!
 
 #### Task Analysis Questions
 
@@ -499,7 +516,7 @@ Draw upon feedback from critiques and data from your contextual inquiry.
 
 Convey a strong understanding of which design you chose, which tasks you chose, and why you chose them.
 
-Then Create a storyboard of each task for your selected design. 
+Then create a storyboard of each task for your selected design. 
 These should be done on paper, then scanned (i.e., do not create or recreate them in a drawing package). 
 They should clearly indicate the functionality of the design and what the interface will be like,
 conveying the major aspects of the design in enough detail that a person not in your group can understand 
@@ -550,9 +567,9 @@ Your report should follow the outline below, and will be graded using the guidel
 The provided page allocations are estimates, intended to help convey how to divide up the space.
 
 If you completed all of your milestones above, you will have much of the content for this report.
-But it is critical that you revise and update that content.
-You have received extensive feedback throughout your design process, and evaluation of your report will 
-include how you have addressed and incorporated that feedback to improve relative to your prior milestones.
+But, __it is critical that you revise and update that content__.
+You have received extensive feedback throughout your design process, and __evaluation of your report will 
+include how you have addressed and incorporated that feedback to improve__ relative to your prior milestones.
 
 1. __Title__ 
 
@@ -661,7 +678,7 @@ Due: Uploaded the night before class {{ page.date_project_2i }}
 Prepare a presentation of your process in getting the right design. It should encompass all of your work in Assignment 2.
 
 - Two members of your team should deliver the presentation, each speaking to relatively equals portions.
-- An eight minute time limit will be strictly enforced, with additional time for questions.
+- An eight minute time limit will be __strictly enforced__, with additional time for questions.
 
 A suggested organization of this presentation is:
 

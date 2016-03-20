@@ -2,29 +2,40 @@
 layout: base/bar-sidebar-none
 title: "Assignment 3: Getting the Design Right"
 
-link_project_3a: https://canvas.uw.edu/courses/987987/assignments/3035453
-date_project_3a: Tuesday, November 10, 2015
+# Paper Prototype
+link_project_3a: 
+date_project_3a: Tuesday, May 10, 2016
 
-link_project_3b: https://canvas.uw.edu/courses/987987/assignments/3035454
-date_project_3b: Tuesday, November 10, 2015
+# Heuristic Evaluation
+link_project_3b: 
+date_project_3b: Tuesday, May 10, 2016
 
-link_project_3c: https://canvas.uw.edu/courses/987987/assignments/3040077
-date_project_3c: Friday, November 13, 2015
+# Usability Testing Check-In
+link_project_3c: 
+date_project_3c: Friday, May 13, 2016
 
-link_project_3d: https://canvas.uw.edu/courses/987987/assignments/3040177
-link_project_3d_critique: https://canvas.uw.edu/courses/987987/assignments/3046463
-date_project_3d: Tuesday, November 17, 2015
+# Usability Testing Review
+link_project_3d: 
+link_project_3d_critique: 
+date_project_3d: Tuesday, May 17, 2016
 
-link_project_3e: https://canvas.uw.edu/courses/987987/assignments/3040179
-date_project_3e: Friday, November 20, 2015
+# Digital Mockup
+link_project_3e: 
+date_project_3e: Friday, May 20, 2016
 
-link_project_3f: https://canvas.uw.edu/courses/987987/assignments/3052941
-date_project_3f: Tuesday, December 1, 2015
+# Getting the Design Right
+link_project_3f: 
+date_project_3f: Friday, May 27, 2016
 
-link_project_3g: https://canvas.uw.edu/courses/987987/assignments/3052942
-date_project_3g: Thursday, December 3, 2015
+# Presentations
+link_project_3g: 
+date_project_3g: Tuesday, May 31, 2016
 
 ---
+
+~~~
+This website is under development and all content is subject to change.
+~~~
 
 # Overview
 
