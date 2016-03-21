@@ -56,8 +56,13 @@ Current widely used examples of community support and engagement systems exist i
 
 - Social Networking
   - [Nextdoor](https://nextdoor.com/) (private social networks for neighbors)
+  - [GoodReads](https://www.goodreads.com/) (sharing reading interests with friends)
 - Sub-community Discovery
   - [Meetup](http://www.meetup.com/) (organizing in-person meetings of people with similar interests within a locality)
+- Civic Engagement
+  - [Living Voters Guide](https://livingvotersguide.org/) (informing voters on current ballot issues)
+- Community Participation
+  - [Facebook's Nearby Friends](https://www.facebook.com/help/629537553762715/) (encourages engaging with friends in-person)
 
 Researchers have also studied current processes, challenges, and opportunities:
 
