@@ -46,62 +46,49 @@ This is an individual assignment, consisting of three milestones.
 
 The theme for projects in this course is __community support and engagement__:
 
+
+
 ~~~
-The following sections still need to be updated to the current project theme...
+Maybe add some quotes about community engagement here...
 ~~~
-
-> Personal informatics systems are systems that help people collect personally relevant information for the purpose of 
-> self-reflection and gaining self-knowledge.
->
-> [Li _et al._, 2010]({{ site.baseurl }}/readings/PersonalInformatics-Li2010.pdf).
-
-Personal informatics relates heavily to the [Quantified Self](http://quantifiedself.com/) movement, which emphasizes:
-
-> Self-knowledge through numbers.
->
-> [Gary Wolf, 2009](http://archive.wired.com/medtech/health/magazine/17-07/lbnp_knowthyself)
  
-Current widely used examples of personal informatics systems exist in a variety of domains, with more active or passive approaches:
+Current widely used examples of community support and engagement systems exist in a variety of domains:
 
-- Finances
-  - [Mint](http://www.mint.com/) (for tracking finances)
-- Health and Wellness
-  - [Glooko](http://glooko.com/) (for tracking diabetes outcomes)
-  - [Track your Happiness](https://www.trackyourhappiness.org/) (for tracking happiness)
-- Media
-  - [Last.fm](http://www.last.fm) (for tracking music listening)
-- Physical Activity
-  - [FitBit](http://www.fitbit.com/) (for tracking physical activity)
-  - [Moves](http://www.moves-app.com/) (for tracking location)
-  - [MyFitnessPal](http://www.myfitnesspal.com/) (for tracking food intake)
-  - [RunKeeper](http://www.runkeeper.com/) (for tracking physical activity)
-
-Individuals have gone much deeper into their own data:
-
-- [Feltron Report](http://feltron.com/) (a designer who tracks everything he does and releases an annual report)
+- Social Networking
+  - [Nextdoor](https://nextdoor.com/) (private social networks for neighbors)
+  - [GoodReads](https://www.goodreads.com/) (sharing reading interests with friends)
+- Sub-community Discovery
+  - [Meetup](http://www.meetup.com/) (organizing in-person meetings of people with similar interests within a locality)
+- Civic Engagement
+  - [Living Voters Guide](https://livingvotersguide.org/) (informing voters on current ballot issues)
+- Community Participation
+  - [Facebook's Nearby Friends](https://www.facebook.com/help/629537553762715/) (encourages engaging with friends in-person)
 
 Researchers have also studied current processes, challenges, and opportunities:
 
-- [Li et al., 2010, A Stage-Based Model of Personal Informatics Systems]({{ site.baseurl }}/readings/PersonalInformatics-Li2010.pdf)
-- [Choe et al., 2014, Understanding Quantified-Selfer's Practices in Collecting and Exploring Personal Data]({{ site.baseurl }}/readings/PersonalInformatics-Choe2014.pdf)
-- [Rooksby et al., 2014, Personal Tracking as Lived Informatics]({{ site.baseurl }}/readings/PersonalInformatics-Rooksby2014.pdf)
-- [Cordeiro et al., 2015, Barriers and Negative Nudges: Exploring Challenges in Food Journaling]({{ site.baseurl }}/readings/PersonalInformatics-Cordeiro2015.pdf)
-- [Epstein et al., 2015, A Lived Informatics Model of Personal Informatics]({{ site.baseurl }}/readings/PersonalInformatics-Epstein2015.pdf)
+- [Dillahunt et al., 2014, Understanding factors of successful engagement around energy consumption between and among households]({{ site.baseurl }}/readings/Community-Dillahunt2014.pdf)
+- [Sheena Erete, 2015, Engaging Around Neighborhood Issues: How Online Communication Affects Offline Behavior]({{ site.baseurl }}/readings/Community-Erete2015.pdf)
+- [Müller et al., 2015, Practice-based Design of a Neighborhood Portal: Focusing on Elderly Tenants in a City Quarter Living Lab]({{ site.baseurl }}/readings/Community-Muller2015.pdf)
 
 ## Thinking Big
  
 Your proposal must go beyond a technology-centric proposal of a webpage, phone application, or interaction. Think about 
-the problems that people face in their lives, how we can approach those problems, and the role for interactive computing.
+the problems that people face in their lives with regards to their community, how we can approach those problems, and the role for interactive computing.
 This first assignment is your opportunity to think broadly about identifying a problem. Subsequent assignments will provide 
 opportunities to focus on designing a specific technological solution to a specific set of tasks.
 
 You should identify and consider goals and activities that are important to people. Potential domains include:
 
- - living a healthy life
- - managing finances effectively
- - managing time effectively
- - reducing environmental impact
+ - social networking
+ - civic engagement
+ - sub-community discovery
+ - crime prevention
+ - community development
  
+~~~
+The following sections still need to be updated to the current project theme...
+~~~ 
+
 Activities within personal informatics can include:
 
  - planning to track
@@ -148,22 +135,23 @@ Due: Uploaded the night before section {{ page.date_project_1a }}
 Friday's section will focus on brainstorming potential project directions.
 You will get started on thinking, and help seed this brainstorming, with some individual ideas.
 
-Propose three starting points for brainstorming domains, problems, and goals that might be supported via self-tracking.
+Propose three starting points for brainstorming domains, problems, and goals that fall within the realm of community support and engagement.
 
-By domain, we mean an aspect of life. Domains that are already common in self-tracking include:
+By domain, we mean an aspect of a physical community. Domains that are already common in community support and engagement include:
 
-- finances (e.g., tracking investments, spending)
-- wellness (e.g., tracking physical activity, sleep, weight)
-- health (e.g., tracking for post-surgical pain management, allergies or other personal triggers, major weight loss)
-- mood (e.g., tracking mood, identifying depressive symptoms)
+- social networking (e.g., meeting neighbors, sharing common knowledge important to the community)
+- civic engagement (e.g., engaging in local politics, informing citizens of issues that affect their community)
+- sub-community discovery (e.g., bringing people together)
+- crime prevention (e.g., understanding and acting to prevent crime within neighborhoods)
+- community development (e.g. volunteerism)
 
 Be sure to focus on problems and goals, not potential design solutions.
 One way to help yourself identify a hierarchy of problems and goals is to ask "why?". For example:
 
-- Why is a person using Mint? 
-- Why is a person tracking their spending?
-- Why do they want to know how much they spend on leisure activities?
-- Why do they have a goal of saving for a major purchase?
+- Why is a person using Nextdoor? 
+- Why is a person reading their neighbors posts?
+- Why do they want to know what issues their neighbors are dealing with?
+- Why are they replying to neighbors posts?
 
 Each idea should be a single sentence, identifying the domain and the problem or goal.
 At most one of your ideas may come from any of the domains above.
