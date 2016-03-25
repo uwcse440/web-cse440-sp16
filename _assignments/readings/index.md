@@ -3,20 +3,20 @@ layout: base/bar-sidebar-none
 title: "Readings"
 
 link_reading_contextual_inquiry: https://canvas.uw.edu/courses/987987/assignments/3011029
-date_reading_contextual_inquiry: Friday, October 9, 2015
+date_reading_contextual_inquiry: Friday, April 8, 2016
 
 link_reading_critique: https://canvas.uw.edu/courses/987987/assignments/3016470
-date_reading_critique: Friday, October 16, 2015
+date_reading_critique: Friday, April 15, 2016
 
 link_reading_prototyping_videos: https://canvas.uw.edu/courses/987987/assignments/3029582
-date_reading_prototyping_videos: Friday, October 30, 2015
+date_reading_prototyping_videos: Friday, April 29, 2016
 
 link_reading_paper_prototyping: https://canvas.uw.edu/courses/987987/assignments/3039948
-date_reading_paper_prototyping: Friday, November 13, 2015
+date_reading_paper_prototyping: Friday, May 13, 2016
 
 link_reading_research_writeup: https://canvas.uw.edu/courses/987987/assignments/3046595
 link_reading_research_paper: https://canvas.uw.edu/courses/987987/assignments/3046597
-date_reading_research: Friday, December 4, 2015
+date_reading_research: Tuesday, May 31 2016
 ---
 
 # Overview
