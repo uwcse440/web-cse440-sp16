@@ -3,32 +3,32 @@ layout: base/bar-sidebar-none
 title: "Assignment 3: Getting the Design Right"
 
 # Paper Prototype
-link_project_3a: 
+link_project_3a: https://canvas.uw.edu/courses/1039440/assignments/3191195
 date_project_3a: Tuesday, May 10, 2016
 
 # Heuristic Evaluation
-link_project_3b: 
+link_project_3b: https://canvas.uw.edu/courses/1039440/assignments/3191196
 date_project_3b: Tuesday, May 10, 2016
 
 # Usability Testing Check-In
-link_project_3c: 
+link_project_3c: https://canvas.uw.edu/courses/1039440/assignments/3191197
 date_project_3c: Friday, May 13, 2016
 
 # Usability Testing Review
-link_project_3d: 
-link_project_3d_critique: 
+link_project_3d: https://canvas.uw.edu/courses/1039440/assignments/3191198
+link_project_3d_critique: https://canvas.uw.edu/courses/1039440/assignments/3191199
 date_project_3d: Tuesday, May 17, 2016
 
 # Digital Mockup
-link_project_3e: 
+link_project_3e: https://canvas.uw.edu/courses/1039440/assignments/3191200
 date_project_3e: Friday, May 20, 2016
 
 # Getting the Design Right
-link_project_3f: 
+link_project_3f: https://canvas.uw.edu/courses/1039440/assignments/3191201
 date_project_3f: Friday, May 27, 2016
 
 # Presentations
-link_project_3g: 
+link_project_3g: https://canvas.uw.edu/courses/1039440/assignments/3191202
 date_project_3g: Tuesday, May 31, 2016
 
 ---
@@ -228,10 +228,10 @@ Bring your prototype to class. You will need it to conduct Heuristic Evaluation.
 
 ### Grading
 
-This milestone will be graded on a scale of __9 points__:
+This milestone will be graded on a scale of __6 points__:
 
-1. __Overall Completeness and Appropriateness of Paper Prototype__: (3 points)
-2. __Completeness, Appropriateness, and Documentation of Each Task__: (3 points per task)
+1. __Overall Completeness and Appropriateness of Paper Prototype__: (2 points)
+2. __Completeness, Appropriateness, and Documentation of Each Task__: (2 points per task)
 
 <a name="heuristic_evaluation"></a>
 
@@ -269,9 +269,9 @@ After class, submit images of your notes in PDF format. Submit via Canvas here:
 
 ### Grading
 
-This milestone will be graded on a scale of __4 points__:
+This milestone will be graded on a scale of __6 points__:
 
-1. __Participation of Each Half-Team__: (2 points per half-team)
+1. __Participation of Each Half-Team__: (3 points per half-team)
 
 <a name="usability_testing_checkin"></a>
 
@@ -458,7 +458,7 @@ Submit via Canvas here:
 This milestone will be graded on a scale of __12 points__:
 
 1. __Overall Completeness and Appropriateness of Digital Mockup__: (3 points)
-2. __Completeness, Appropriateness, and Documentation of Each Task__: (3 points)
+2. __Completeness, Appropriateness, and Documentation of Each Task__: (3 points each)
 3. __Discussion of Decisions and Changes in Implementation__: (3 points)
 
 <a name="final_report"></a>
