@@ -3,22 +3,24 @@ layout: base/bar-sidebar-none
 title: "Assignment 4: Communicating Your Design"
 
 # Initial Website
-link_project_4a: 
+link_project_4a: https://canvas.uw.edu/courses/1039440/assignments/3191203
 date_project_4a: Friday, May 27, 2016
 
 # Initial Video Prototype
-link_project_4b: 
+link_project_4b: https://canvas.uw.edu/courses/1039440/assignments/3191205
 date_project_4b: Tuesday, May 31, 2016
 
 # Poster Critique and Pitch
-link_project_4c: 
+link_project_4c: https://canvas.uw.edu/courses/1039440/assignments/3191206
 date_project_4c: Thursday, June 2, 2016
 
 # Communication Critique
 date_project_4d: Friday, June 3, 2016
 
 # Final Poster, Video, and Website
-link_project_4e: 
+link_project_4e_video: https://canvas.uw.edu/courses/1039440/assignments/3191208
+link_project_4e_poster: https://canvas.uw.edu/courses/1039440/assignments/3191207
+link_project_4e_website: https://canvas.uw.edu/courses/1039440/assignments/3191209
 date_project_4e: Monday, June 6, 2016
 
 # Poster Session
@@ -182,10 +184,10 @@ If you are absolutely unable to submit a pull request, submit via Canvas here:
 
 ### Grading
 
-This milestone will be graded on a scale of __8 points__:
+This milestone will be graded on a scale of __6 points__:
 
-1.  __Completeness of Content__: (3 points)
-2.  __Appropriately Polished Presentation__: (3 points)
+1.  __Completeness of Content__: (2 points)
+2.  __Appropriately Polished Presentation__: (2 points)
 3.  __Submitted via Pull Request__: (2 points)
 
 Your website should be complete and will be evaluated as such.
@@ -352,13 +354,17 @@ Depending on how you embed your video in your website, it may or may not be part
 For example, embedding a YouTube or Vimeo player does not give us your video.
 We therefore ask that final videos also be submitted via Canvas here: 
 
-{% if page.link_project_4e != nil %}<{{ page.link_project_4e }}>{% else %}`Link to be added`{% endif %}
+Video: {% if page.link_project_4e_video != nil %}<{{ page.link_project_4e_video }}>{% else %}`Link to be added`{% endif %}
+
+Poster: {% if page.link_project_4e_poster != nil %}<{{ page.link_project_4e_poster }}>{% else %}`Link to be added`{% endif %}
+
+Website: {% if page.link_project_4e_website != nil %}<{{ page.link_project_4e_website }}>{% else %}`Link to be added`{% endif %}
 
 ### Grading
 
 Your final video, final website, and final poster will each be graded on a scale of __10 points__.
 
-#### Poster
+#### Poster (10 points)
 
 - __Content__: (5 points)
   - Includes all of the points listed above.

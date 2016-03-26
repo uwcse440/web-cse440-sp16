@@ -6,38 +6,38 @@ title: "Assignment 2: Getting the Right Design"
 date_project_2a: Friday, April 8, 2016
 
 # CI Plan
-link_project_2b: 
-link_project_2b_critique: 
+link_project_2b: https://canvas.uw.edu/courses/1039440/assignments/3191184
+link_project_2b_critique: https://canvas.uw.edu/courses/1039440/assignments/3191185
 date_project_2b: Tuesday, April 12, 2016
 
 # CI Check-In
-link_project_2c: 
+link_project_2c: https://canvas.uw.edu/courses/1039440/assignments/3191186
 date_project_2c: Friday, April 15, 2016
 
 # CI Review
-link_project_2d: 
-link_project_2d_critique: 
+link_project_2d: https://canvas.uw.edu/courses/1039440/assignments/3191187
+link_project_2d_critique: https://canvas.uw.edu/courses/1039440/assignments/3191188
 date_project_2d: Tuesday, April 19, 2015
 
 # Task Review
-link_project_2e: 
+link_project_2e: https://canvas.uw.edu/courses/1039440/assignments/3191189
 date_project_2e: Friday, April 22, 2015
 
 # Design Check-In
-link_project_2f: 
-link_project_2f_critique: 
+link_project_2f: https://canvas.uw.edu/courses/1039440/assignments/3191190
+link_project_2f_critique: https://canvas.uw.edu/courses/1039440/assignments/3191191
 date_project_2f: Tuesday, April 26, 2015
 
 # Design Review
-link_project_2g: 
+link_project_2g: https://canvas.uw.edu/courses/1039440/assignments/3191192
 date_project_2g: Friday, April 29, 2015
 
 # Getting the Right Design
-link_project_2h: 
+link_project_2h: https://canvas.uw.edu/courses/1039440/assignments/3191193
 date_project_2h: Tuesday, May 3, 2015
 
 # Presentation
-link_project_2i: 
+link_project_2i: https://canvas.uw.edu/courses/1039440/assignments/3191194
 date_project_2i: Tuesday, May 3, 2015
 
 ---
