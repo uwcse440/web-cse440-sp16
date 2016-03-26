@@ -2,13 +2,12 @@
 layout: base/bar-sidebar-none
 title: "Assignment 1: Project Proposal"
 
-link_project_1a: 
+link_project_1a: https://canvas.uw.edu/courses/1039440/assignments/3191182
 date_project_1a: Friday, April 1, 2016
-link_project_1b: 
+link_project_1b: https://canvas.uw.edu/courses/1039440/assignments/3191183
 date_project_1b: Tuesday, April 5, 2016
-link_project_1c_projects: 
-link_project_1c_bids: 
-date_project_1c_bids: Thursday, April 7, 2016
+link_project_1c: https://canvas.uw.edu/courses/1039440/assignments/3219847
+date_project_1c: Friday, April 8, 2016
 ---
 
 ~~~
@@ -24,7 +23,8 @@ analyze the needs and opportunities in the problem, explore potential designs, a
 This assignment is worth __3%__ of your overall course grade:
 
 - __0.5%__ for the proposal brainstorm
-- __2.5%__ for the project proposal
+- __0.5%__ for the initial project proposal
+- __2.0%__ for the revised project proposal
 
 # Milestones
 
@@ -38,9 +38,9 @@ This is an individual assignment, consisting of three milestones.
 
   Due: Uploaded the night before class {{ page.date_project_1b }}
   
-* [Assignment 1c: Project Bid](#project_bid)
+* [Assignment 1c: Revised Project Proposal](#project_proposal_revised)
 
-  Due: Uploaded the night before class {{ page.date_project_1c_bids }}
+  Due: Uploaded the night before class {{ page.date_project_1c }}
 
 # Project Description
 
@@ -170,7 +170,7 @@ In section, be prepared to contribute your initial ideas as part of a larger bra
 
 ### Grading
 
-This milestone will be graded on a scale of __3 points__: One point for each unique proposed idea (i.e., do not submit small variations on the same idea).
+This milestone will be graded on a scale of __5 points__: One point for each unique proposed idea (i.e., do not submit small variations on the same idea) and 2 points for creativity.
 
 <a name="project_proposal"></a>
 
@@ -178,7 +178,7 @@ This milestone will be graded on a scale of __3 points__: One point for each uni
 
 Due: Uploaded the night before class {{ page.date_project_1b }}
 
-Propose and analyze a problem that form the basis of a design project for this class.
+With your assigned project groups, propose and analyze a problem that forms the basis of a design project for this class.
 
 In one paragraph, describe the design problem and motivation. 
 This description should convince the reader that this is a difficult and interesting problem, worth spending a quarter considering. 
@@ -226,31 +226,38 @@ Submit via Canvas here:
 
 ### Grading
 
-This proposal will be graded on a scale of __10 points__:
+This proposal will be graded on a scale of __5 points__:
 
-1. __Problem and Motivation__: (3 points)
-2. __Analysis of Problem__: (3 points)
-3. __Novelty and Creativity__: (2 points)
-4. __Report Clarity and Presentation__: (2 points)
+1. __Problem and Motivation__: (2 points)
+2. __Analysis of Problem__: (1 points)
+3. __Novelty and Creativity__: (1 points)
+4. __Report Clarity and Presentation__: (1 points)
 
-<a name="project_bid"></a>
+<a name="project_proposal_revised"></a>
 
-## 1c: Project Bid
+## 1c: Revised Project Proposal
 
-Due: Submitted before class {{ page.date_project_1c_bids }}
+Due: Submitted the night before section {{ page.date_project_1c }}
 
-Review the sponsored projects and course staff comments regarding those projects:
-
-{% if page.link_project_1c_projects != nil %}<{{ page.link_project_1c_projects }}>{% else %}`Link to be added`{% endif %}
-
-You will submit a bid on projects and potential partners. Course staff will use your bids to assign projects and groups. 
+Review the feedback you received on your submission to assignment 1b in Canvas and revise your project proposal accordingly.
 
 ### Submission
 
-Submit your bid on projects and potential partners here:
+No more than one page of text in PDF format.
 
-{% if page.link_project_1c_bids != nil %}<{{ page.link_project_1c_bids }}>{% else %}`Link to be added`{% endif %}
+Images do not count against your page limit, and are therefore effectively free. 
+You should embed images throughout your PDF, keeping them near the text that references them.
+The limit applies to the approximate amount of text you would have if all images were removed.
+
+Submit via Canvas here:
+
+{% if page.link_project_1c != nil %}<{{ page.link_project_1c }}>{% else %}`Link to be added`{% endif %}
 
 ### Grading
 
-Submitting a project bid is a requirement for proceeding in the class.
+This proposal will be graded on a scale of __20 points__:
+
+1. __Problem and Motivation__: (6 points)
+2. __Analysis of Problem__: (6 points)
+3. __Novelty and Creativity__: (4 points)
+4. __Report Clarity and Presentation__: (4 points)
