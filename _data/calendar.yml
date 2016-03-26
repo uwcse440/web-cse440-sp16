@@ -46,7 +46,7 @@ holidays:
 
 lectures:
   - date: "2016-03-29"
-    name: "Introduction,<br>Project Overview,<br>and Personal Informatics"
+    name: "Introduction, and <br>Project Overview<br>"
     # slides: "slides/lecture/l01-intro.pdf"
   - date: "2016-03-31"
     name: "Design of Everyday Things"
