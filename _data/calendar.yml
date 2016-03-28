@@ -215,6 +215,9 @@ officehours:
     location: officehourscatie
 
 assignments:
+  - date: "2016-03-31"
+    name: "0 - Introduction Slide"
+    link: "assignments/assignment0/"
   - date: "2016-04-01"
     name: "1a - Proposal Brainstorm"
     link: "assignments/assignment1/#project_brainstorm"
@@ -224,9 +227,6 @@ assignments:
   - date: "2016-04-08"
     name: "1c - Revised Proposal"
     link: "assignments/assignment1/#project_proposal_revised"
-  - date: "2016-04-07"
-    name: "0 - Introduction Slide"
-    link: "assignments/assignment0/"
   - date: "2016-04-08"
     name: "2a - Project Ideation"
     link: "assignments/assignment2/#project_ideation"    
