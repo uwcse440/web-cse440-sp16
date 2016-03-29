@@ -3,10 +3,6 @@ layout: base/bar-sidebar-none
 title: Course Overview
 ---
 
-~~~
-This website is under development and all content is subject to change.
-~~~
-
 # Course Description
 
 This course provides an introduction to human-computer interaction and the design process. Students will learn methods and skills involved in designing and prototyping interactive systems. The course covers the design process from the initial formulation of a design problem to creation of digital prototypes. The class structure is a mix of classroom design activities, lectures, and design critiques of student work by peers and instructor. The course is overwhelmingly organized around a group project, in which students:
