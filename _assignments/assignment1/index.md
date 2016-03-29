@@ -44,15 +44,7 @@ This is an individual assignment, consisting of three milestones.
 
 # Project Description
 
-The theme for projects in this course is __community support and engagement__:
-
-
-
-~~~
-Maybe add some quotes about community engagement here...
-~~~
- 
-Current widely used examples of community support and engagement systems exist in a variety of domains:
+The theme for projects in this course is __community support and engagement__. Current widely used examples of community support and engagement systems exist in a variety of domains:
 
 - Social Networking
   - [Nextdoor](https://nextdoor.com/) (private social networks for neighbors)
@@ -85,23 +77,17 @@ You should identify and consider goals and activities that are important to peop
  - crime prevention
  - community development
  
-~~~
-The following sections still need to be updated to the current project theme...
-~~~ 
+Activities within community engagement vary widely. Some examples include:
 
-Activities within personal informatics can include:
-
- - planning to track
- - helping remember to track
- - the actual act of tracking
- - identifying activity patterns 
- - sharing accomplishments with friends and family
- - abandoning tracking
+ - communicating with people
+ - tracking neighborhood information
+ - exploring a physical community
+ - sharing community knowledge
 
 Do not start with a focus on concrete one-time tasks (e.g., logging into your bank account). 
 Instead identify problems in long-lived activities that span many different social or technological contexts. 
-If you want to help people manage their money, do not immediately propose a website that addresses one specific task. 
-Consider the range of other opportunities (e.g., personal mobile devices, shared family computers, point of sale systems).
+If you want to help people connect with neighbors, do not immediately propose a website that addresses one specific task. 
+Consider the range of other opportunities (e.g., personal mobile devices, shared family computers, public/ambient displays).
 
 Focus on creating or improving a specific application or service that addresses the issues of an actual community. 
 You must be able to create and evaluate a design within the timeframe of this course, so consider whether you 
