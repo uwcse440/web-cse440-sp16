@@ -15,6 +15,7 @@ Submit an informal slide that will help us as we get to know you:
 - Year (1,2,3,4,5,6,?)
 - Hometown
 - Interesting Fact or "What I did on my ..."
+- Face picture
 
 Please keep it clean, and understand that your classmates may at some point see this flash card.
 
