@@ -103,13 +103,6 @@ motivate the development of new enabling technology. For example, see how Artefa
 This design has not been implemented, and might not even be immediately possible.
 But it has been developed in substantial detail, understanding implications for design and implementation.
 
-## Going Forward
-
-The course staff will select a subset of submitted proposals for sponsorship. Sponsored proposals will be posted,
-and students will then bid on the projects they want to pursue in this course. Your proposal is thus an effort to 
-convince both the staff and your classmates that a problem is interesting, tractable within the timeline and
-constraints of this course, and worthy of investigation.
-
 # Deliverables
 
 <a name="project_brainstorm"></a>
