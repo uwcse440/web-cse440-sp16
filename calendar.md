@@ -72,7 +72,7 @@ This website is under development and all content is subject to change.
             <tr class="lecture">
               <td>
                 {% if currentlecture.slides != nil %}
-                  <a href="{{ site.baseurl }}/{{ currentlecture.slides }}">
+                  <a href="{{ currentlecture.slides }}">
                 {% endif %}
                   {% if currentlecture.name != nil %}
                     {{ currentlecture.name }}<br>
