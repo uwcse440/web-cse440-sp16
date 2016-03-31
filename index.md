@@ -77,10 +77,7 @@ Scheduled hours are held most weeks, but check the calendar:
 
 - Katharina, Tuesdays, 2:30 - 3:30, CSE 566 
 - Alex, Wednesdays, 1:30 - 2:30, CSE 218
-
-~~~
-- Catie, Thursday, 1:30 - 2:30, CSE 218
-~~~
+- Catie, Thursday, 12:00 - 1:00, CSE 220
   
 Other meetings by appointment.
 
