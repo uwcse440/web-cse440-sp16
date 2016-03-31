@@ -47,7 +47,7 @@ holidays:
 lectures:
   - date: "2016-03-29"
     name: "Introduction, and <br>Project Overview"
-    # slides: "slides/lecture/l01-intro.pdf"
+    slides: "https://canvas.uw.edu/files/35932592/download?download_frd=1"
   - date: "2016-03-31"
     name: "Design of Everyday Things"
     # slides: "slides/lecture/l02-doet.pdf"
