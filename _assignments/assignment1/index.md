@@ -10,10 +10,6 @@ link_project_1c: https://canvas.uw.edu/courses/1039440/assignments/3219847
 date_project_1c: Friday, April 8, 2016
 ---
 
-~~~
-This website is under development and all content is subject to change.
-~~~
-
 # Overview
 
 You are to propose a __problem__ and an __approach__ that could form the basis of a project for this course.
