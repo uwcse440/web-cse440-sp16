@@ -103,7 +103,7 @@ This website is under development and all content is subject to change.
             <tr class="section">
               <td>
                 {% if currentsection.slides != nil %}
-                  <a href="{{ site.baseurl }}/{{ currentsection.slides }}">
+                  <a href="{{ currentsection.slides }}">
                 {% endif %}
                   {% if currentsection.name != nil %}
                     {{ currentsection.name }}<br>

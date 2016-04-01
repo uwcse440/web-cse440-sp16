@@ -50,7 +50,7 @@ lectures:
     slides: "https://canvas.uw.edu/files/35932592/download?download_frd=1"
   - date: "2016-03-31"
     name: "Design of Everyday Things"
-    # slides: "slides/lecture/l02-doet.pdf"
+    slides: "https://canvas.uw.edu/files/35982635/download?download_frd=1"
   - date: "2016-04-05"
     name: "Contextual Inquiry"
     # slides: "slides/lecture/l03-contextualinquiry.pdf"
@@ -103,7 +103,7 @@ lectures:
 
 sections:
   - date: "2016-04-01"
-    # slides: "slides/section/s01-brainstorm.pdf"
+    slides: "https://canvas.uw.edu/files/35985462/download?download_frd=1"
   - date: "2016-04-08"
     # slides: "slides/section/s02-ideation.pdf"
   - date: "2016-04-15"
