@@ -46,7 +46,7 @@ Read:
   
 Due: Uploaded the night before section {{ page.date_reading_contextual_inquiry }}.
 
-After reading, consider how you might apply this approach to the project you proposed in Assignment 1b.
+After reading, consider how you might apply this approach to the project you proposed in Assignment 1c.
 
 - Briefly, what is your proposal (e.g., two sentences).
 - Who and what might you propose to observe in a contextual inquiry (e.g., two sentences).
