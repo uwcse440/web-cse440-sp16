@@ -4,6 +4,7 @@ title: "Assignment 2: Getting the Right Design"
 
 # Project Ideation
 date_project_2a: Friday, April 8, 2016
+link_project_2a: https://canvas.uw.edu/courses/1039440/assignments/3220587
 
 # CI Plan
 link_project_2b: https://canvas.uw.edu/courses/1039440/assignments/3191184
@@ -41,10 +42,6 @@ link_project_2i: https://canvas.uw.edu/courses/1039440/assignments/3191194
 date_project_2i: Tuesday, May 3, 2015
 
 ---
-
-~~~
-This website is under development and all content is subject to change.
-~~~
 
 # Overview
 
@@ -116,16 +113,16 @@ You will draw upon the ideas developed in your brainstorming and the observation
 to help develop a set of potential tasks your design might support. 
 You will next sketch how a set of initial designs might support those tasks.
 You will choose a design to pursue in the remainder of the course and storyboard the details of your design in
-the context of important tasks
+the context of important tasks.
 Finally, you will present your design process in a report and presentation.
 
 More specifically, you will do the following:
 
-1. Generate ideas for potential problems, tasks, features, and interactions using a group ideation exercise.
+1. Generate ideas for tasks, features, and interactions surrounding your proposal using a group ideation exercise.
 
    ([Assignment 2a](#project_ideation))
     
-2. Use the contextual inquiry method in observing and interviewing at least __three__ people who might use your design.
+2. Use the contextual inquiry method (or possibly a different user research method if CI does not fit your project) in observing and interviewing at least __three__ people who might use your design.
 
    ([Assignment 2b](#contextual_inquiry_plan)), ([Assignment 2c](#contextual_inquiry_checkin)), ([Assignment 2d](#contextual_inquiry_review))
 
@@ -133,7 +130,7 @@ More specifically, you will do the following:
 
    Select these to capture the important aspects of the problem you are solving and to provide coverage of the designs 
    you will explore. Create these based on your observations and analyses of existing tasks as well as your vision for 
-   new tasks enabled by potential designs. Remember that tasks say what is accomplished, while leaving open how to accomplish it. 
+   new tasks enabled by potential designs. __Remember that tasks say what is accomplished, while leaving open how to accomplish it__. 
    
    As you progress through your project, you can and should consider revising your tasks. 
    Expect to refine or change your tasks as your understanding of the problem matures or according to feedback you receive.
@@ -193,14 +190,16 @@ When you get stuck, find a context to inspire new ideas.
 Given a space of possible directions, your project needs to begin to gather information on how to generate and consider ideas. 
 Following up on the above, additionally brainstorm:
  
-- Communities: types of people you might work with to learn more.
+- User Groups: types of people you might work with to learn more.
 - Foci: potential foci you might apply in your learning.
 
 The goal is to begin thinking about how to plan effective contextual inquiries toward your design process.
 
 ### Submission
 
-In section, one of the course staff will sign off on what you completed.
+At the end of section, take a photo of your brainstorm and upload it on Canvas here:
+
+{% if page.link_project_2a != nil %}<{{ page.link_project_2a }}>{% else %}`Link to be added`{% endif %}
 
 You will be able to take your paper with you, and you should continue brainstorming throughout your project.
 
@@ -222,7 +221,7 @@ Give enough details to convince us that you can actually find and interview your
 For example, your target participants should not be "doctors" but instead a specific group of doctors 
 (e.g., Family Practitioners in the UW Roosevelt Clinic). 
 If gaining access to the target participants is non-trivial (e.g., as with busy doctors), 
-describe the steps you have already taken to gain access and your plans to recover if you are unable to gain access. 
+describe the __steps you have already taken__ to gain access and your plans to recover if you are unable to gain access. 
 Indicate when you will be conducting your three inquiries, being as specific as possible.
 
 In another paragraph, describe how you will interact with your participants and your role as the "apprentice".
