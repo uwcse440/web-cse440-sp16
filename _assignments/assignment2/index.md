@@ -677,7 +677,7 @@ Due: Uploaded the night before class {{ page.date_project_2i }}
 Prepare a presentation of your process in getting the right design. It should encompass all of your work in Assignment 2.
 
 - Two members of your team should deliver the presentation, each speaking to relatively equals portions.
-- An eight minute time limit will be __strictly enforced__, with additional time for questions.
+- An twelve minute time limit will be __strictly enforced__, with additional time for questions.
 
 A suggested organization of this presentation is:
 
