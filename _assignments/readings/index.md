@@ -12,7 +12,7 @@ link_reading_prototyping_videos: https://canvas.uw.edu/courses/987987/assignment
 date_reading_prototyping_videos: Friday, April 29, 2016
 
 link_reading_paper_prototyping: https://canvas.uw.edu/courses/987987/assignments/3039948
-date_reading_paper_prototyping: Friday, May 13, 2016
+date_reading_paper_prototyping: Friday, May 6, 2016
 
 link_reading_research_writeup: https://canvas.uw.edu/courses/987987/assignments/3046595
 link_reading_research_paper: https://canvas.uw.edu/courses/987987/assignments/3046597
@@ -94,8 +94,8 @@ Submit via Canvas here:
 
 Watch the rapid prototyping videos linked from Lecture 6 and Lecture 8, including the context from which they were linked.
 
-  - [Lecture 6]({{site.baseurl}}/slides/lecture/l06-designdiamond.pdf)
-  - [Lecture 8]({{site.baseurl}}/slides/lecture/l08-storyboarding.pdf)
+  - [Lecture 6](https://canvas.uw.edu/files/36192008/download?download_frd=1)
+  - [Lecture 8](https://canvas.uw.edu/files/36328243/download?download_frd=1)
   
 Specifically, that is these videos:
 
