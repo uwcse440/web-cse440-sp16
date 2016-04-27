@@ -177,15 +177,9 @@ officehours:
   - date: "2016-05-04"
     name: "Alex Office Hour"
     location: officehoursalex
-  - date: "2016-05-05"
-    name: "Catie Office Hour"
-    location: officehourscatie
   - date: "2016-05-11"
     name: "Alex Office Hour"
     location: officehoursalex
-  - date: "2016-05-12"
-    name: "Catie Office Hour"
-    location: officehourscatie
   - date: "2016-05-17"
     name: "Katharina Office Hour"
     location: officehourskatharina
@@ -345,6 +339,14 @@ aways:
     name: "Katharina Away" 
   - date: "2016-05-13"
     name: "Katharina Away" 
+  - date: "2016-05-04"
+    name: "Catie Away" 
+  - date: "2016-05-05"
+    name: "Catie Away" 
+  - date: "2016-05-06"
+    name: "Catie Away" 
+  - date: "2016-05-07"
+    name: "Catie Away" 
   - date: "2016-05-09"
     name: "Catie Away" 
   - date: "2016-05-10"
