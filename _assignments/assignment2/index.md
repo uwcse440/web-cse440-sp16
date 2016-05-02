@@ -780,11 +780,11 @@ The content of this presentation will be graded on a scale of __10 points__:
 - Design ideas have a strong connection to results of contextual inquiry.
 - Design ideas are appropriate for the supported tasks.
 - Design ideas and storyboards were at the proper fidelity.
-- Presentation covered the required scope within the 8 minute time period.
+- Presentation covered the required scope within the 12 minute time period.
 
 The delivery of this presentation will be graded on a scale of __4 points__:
 
 - Presenter makes eye contact with the audience.
 - Presenter projects their voice well and is audible throughout the room.
 - Presenter feels casual and engaged with the content, not just reading it.
-- Presentation covered the required scope within the 8 minute time period.
+- Presentation covered the required scope within the 12 minute time period.
