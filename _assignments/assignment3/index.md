@@ -33,10 +33,6 @@ date_project_3g: Tuesday, May 31, 2016
 
 ---
 
-~~~
-This website is under development and all content is subject to change.
-~~~
-
 # Overview
 
 Now that you have chosen a design, it is time to iteratively refine that design.
@@ -578,7 +574,7 @@ Due: Uploaded the night before class {{ page.date_project_3g }}.
 Prepare a presentation of your process in getting the design right. It should encompass all of your work in Assignment 3.
 
 - Two members of your team should deliver the presentation, each speaking to relatively equals portions.
-- An eight minute time limit will be strictly enforced, with additional time for questions.
+- An 12 minute time limit will be strictly enforced, with additional time for questions.
 - Your presenters should be different from your presenters in Assignment 2, such that everybody has presented at least once this quarter.
   If there is some reason this cannot work for your team, be sure you have communicated with us.
 
@@ -688,11 +684,11 @@ The content of this presentation will be graded on a scale of __10 points__:
 - Final paper prototype has a strong connection to the results of the testing process.
 - Digital mockup effectively implements the final paper prototype.
 - Digital mockup is at the proper fidelity.
-- Presentation covered the required scope within the 8 minute time period.
+- Presentation covered the required scope within the 12 minute time period.
 
 The delivery of this presentation will be graded on a scale of __4 points__:
 
 - Presenter makes eye contact with the audience.
 - Presenter projects their voice well and is audible throughout the room.
 - Presenter feels casual and engaged with the content, not just reading it.
-- Presentation covered the required scope within the 8 minute time period.
+- Presentation covered the required scope within the 12 minute time period.
