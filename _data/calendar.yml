@@ -198,9 +198,6 @@ officehours:
   - date: "2016-05-31"
     name: "Katharina Office Hour"
     location: officehourskatharina
-  - date: "2016-06-01"
-    name: "Alex Office Hour"
-    location: officehoursalex
   - date: "2016-06-02"
     name: "Catie Office Hour"
     location: officehourscatie
@@ -354,3 +351,5 @@ aways:
     name: "Catie Away" 
   - date: "2016-05-13"
     name: "Catie Away" 
+  - date: "2016-06-01"
+    name: "Alex Away" 
