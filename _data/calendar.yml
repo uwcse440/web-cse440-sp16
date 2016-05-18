@@ -118,10 +118,6 @@ sections:
     slides: "https://canvas.uw.edu/files/36772565/download?download_frd=1"
   - date: "2016-05-20"
     # slides: "slides/section/s08-mockup.pdf"
-  - date: "2016-05-23"
-    name: "Tentative Exam Q&A"
-    location: examreview
-    # slides: "slides/lecture/l16-examreview.pdf"
   - date: "2016-05-27"
     # slides: "slides/section/s09.pdf"
   - date: "2016-06-03"
