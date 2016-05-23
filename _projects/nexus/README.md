@@ -1,0 +1,7 @@
+Place all of your website content in this folder!
+
+You _MUST_ include a 150px x 150px thumbnail image with the filename `project_thumb.png`
+
+You should test/debug your website by placing all of your content in this directory and then running `jekyll serve` or `invoke serve_test` from the root of the course website directory (given that you have already set up your development environment with Node.js 5.1.0, Python 3.5.0, Ruby 2.2.3, and Ruby DevKit). By testing your website within the actual course webstie, you guarantee it will look correct when pushed to the live course website. Follow the development instructions at https://courses.cs.washington.edu/courses/cse440/16sp/development/index.html to set up your build environment.
+
+Note that this content will be loaded from the directory https://courses.cs.washington.edu/courses/cse440/16sp/projects/[PROJECT_NAME]/, so you should not use absolute paths in development. The easiest approach to getting your URLs correct is to not use `./` or `../` in URLS. For instance, if you are trying to reference an image `logo.png` in the same directory as your `index.html`, then you should use the URL `logo.png` instead of `./logo.png'. Use the Chrome debugger panel to solve URL issues (open your webpage in Chrome and then press F12 on Windows or cmd + option + j on Mac). If all else fails, ask Alex.

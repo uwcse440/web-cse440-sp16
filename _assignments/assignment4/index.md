@@ -28,10 +28,6 @@ date_project_4f: __Tentatively__ 11:00 to 12:20, Tuesday, June 7, 2016
 
 ---
 
-~~~
-This website is under development and all content is subject to change.
-~~~
-
 # Overview
 
 Now that you have identified a problem, selected a good design, and

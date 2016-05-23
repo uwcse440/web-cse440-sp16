@@ -3,59 +3,31 @@ layout: base/bar-sidebar-none
 title: Projects
 
 projects:
-  - name: Balance
-    path: balance
-  - name: Ecotopia
-    path: ecotopia
-  - name: FoodPic
-    path: foodpic
-  - name: MiPhone
-    path: miphone
-  - name: Neat
-    path: neat
-  - name: Poliscope
-    path: poliscope
-  - name: SchoolView
-    path: schoolview
-  - name: Sitless
-    path: sitless
-  - name: SmartClothing
-    path: smartclothing
-  - name: TagLine
-    path: tagline
-  - name: Timeout
-    path: timeout
-  - name: Zonect
-    path: zonect
+  - name: Neighborly
+    path: savvy
+  - name: Lend a Hand
+    path: lendahand
+  - name: JRNY
+    path: jrny
+  - name: Defroster
+    path: defroster
+  - name: Broccoli for All
+    path: broccoli
+  - name: OffTheStreet
+    path: offthestreet
+  - name: Nexus
+    path: nexus
+  - name: Helping Hands
+    path: helpinghands
    
 ---
-
-~~~
-This page isn't linked, so we're surprised you're here.
-
-This website is under development and all content is subject to change.
-~~~
 
 <html>
 <div class="row">
 <div class="col-md-9" markdown="block">
 # Project Theme
 
-Projects explored challenges and opportunities in self-tracking, also known as Personal Informatics:
-
-> Personal informatics systems are systems that help people collect personally relevant information for the purpose of 
-> self-reflection and gaining self-knowledge.
->
-> [Li _et al._, 2010]({{ site.baseurl }}/readings/PersonalInformatics-Li2010.pdf).
-
-Personal informatics relates heavily to the [Quantified Self](http://quantifiedself.com/) movement, which emphasizes:
-
-> Self-knowledge through numbers.
->
-> [Gary Wolf, 2009](http://archive.wired.com/medtech/health/magazine/17-07/lbnp_knowthyself)
-
-People have long sought to better understand themselves, but recently technology advances are enabling fundamentally new approaches. 
-Students have examined the problems people encounter, then explored how new technology can go beyond the data fetish to help people in reaching their goals. 
+Social software continues to pervade our daily lives, influencing with whom we connect, the news to which we are exposed and the entertainment with which we amuse ourselves. In addition to our online social networks of friendship and shared interests, everyone also lives in a specific physical community.  Each community is a locale with a distinct mix of individuals, resources and needs, with the particular complications of space, awareness and privacy that go along right in hand. Considering both the benefits and challenges of physical proximity, what kinds of applications, interactions or services can we design that support and leverage our communities?
 
 # Project Websites
 
@@ -92,17 +64,17 @@ Students have examined the problems people encounter, then explored how new tech
 {% comment %}
 Please join us for a poster session celebrating the outstanding design work of CSE 440 students:
   
-Wednesday, December 16
+Tuesday, June 7
   
-11:00 am
+12:30 pm
     
 [CSE Atrium](http://www.washington.edu/maps/#!/cse)
 {% endcomment %}
 Thank you for joining us to celebrate the outstanding design work of CSE 440 students:
 
-Wednesday, December 16
-
-11:00 am
+Tuesday, June 7
+  
+12:30 pm
 
 <img src="{{ site.baseurl }}/images/poster_session.jpg" width="100%" alt="Poster Session"/>
 </div>
