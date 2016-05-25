@@ -492,7 +492,7 @@ include how you have addressed and incorporated that feedback to improve relativ
 	
     Present your testing process, including your method and your participants.
     This process probably evolved some in the course of your project.
-    For your report, present a retrospective on how you refined your design.
+    For your report, present a retrospective on how you refined your process.
 
 6.  __Testing Results__: (2 pages)
 	
