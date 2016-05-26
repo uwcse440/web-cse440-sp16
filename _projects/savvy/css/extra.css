@@ -1,4 +1,13 @@
-.col-sm-fifth{
+/*
+css tweaks for neighborly project website
+CSE 440
+Spring 2016
+
+theme color: #50E3C2;
+*/
+
+
+.col-sm-fifth{ /* modified column small class to fit five nicely*/
 	position:relative;
 	min-height:1px;
 	padding-right:15px;
@@ -14,7 +23,138 @@
 	
 }
 
-.img-redone{
+.img-redone{ /* to get the pics in my modified fifth class to center*/
 	display: inline !important;
 	
+}
+
+.bg-light-gray{
+	background-color: #F7F7F7;
+	
+}
+
+.navbar-default{ /* nav bar background*/
+	background: #f7f7f7;
+}
+
+.navbar-default .navbar-nav>li>a{ /* navigation text color*/
+	color: #000000;
+}
+
+.navbar-default .navbar-nav>li>a:focus{ /* navigation when at part of page*/
+	background-color: #000000;
+}
+
+.navbar-default .navbar-brand{ /* top left logo color*/
+	color: #000000;
+}
+
+/* hovor over logo corner*/
+.navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus{
+	/*color: #50E3C2;*/
+}
+
+
+
+#page-top{
+	
+}
+
+#overview{
+	
+}
+
+#video{
+	
+}
+
+#prototype{
+	
+}
+
+#design{
+	background-color: #DDDDDD;
+	color: #2c3e50 !important;
+}
+
+#team{
+	
+}
+
+#documents{
+	
+}
+/* icons, easy to find codes and image examples on https://astronautweb.co/snippet/font-awesome/*/
+.example:after{ /* example icon use from font-awesome */
+	content: "\f15c";
+	display: inline-block;
+    position: relative;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+.report:after{ /* report icon*/
+	content: "\f15c";
+	display: inline-block;
+    position: relative;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+.presentation:after{ /* presentation icon*/
+	content: "\f108";
+	display: inline-block;
+    position: relative;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+.contextualinquiry:after{ /* digitalmockup icon*/
+	content: "\f129";
+	display: inline-block;
+    position: relative;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+.taskanalysis:after{ /* digitalmockup icon*/
+	content: "\f00b";
+	display: inline-block;
+    position: relative;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+.sketches:after{ /* digitalmockup icon*/
+	content: "\f040";
+	display: inline-block;
+    position: relative;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+.usabilitytesting:after{ /* digitalmockup icon*/
+	content: "\f007";
+	display: inline-block;
+    position: relative;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+.paperprototype:after{ /* digitalmockup icon*/
+	content: "\f016";
+	display: inline-block;
+    position: relative;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+.digitalmockup:after{ /* digitalmockup icon*/
+	content: "\f10b";
+	display: inline-block;
+    position: relative;
+    font-family: FontAwesome;
+    font-size: 2em;
 }
