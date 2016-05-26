@@ -23,7 +23,8 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-	color: #2c3e50;
+	color: #000000;
+	/*color: #2c3e50;*/ /* some of the section's text color*/
     /*color: #50E3C2;*/
 }
 
@@ -246,7 +247,7 @@ hr.star-primary:after {
     font-size: 2em;
 }
 #video{
-    background-color: #F7F7F7
+    
 }
 hr.star-light7 { /* line color*/
     /*border-color: #000;*/

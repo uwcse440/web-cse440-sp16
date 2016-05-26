@@ -5,6 +5,10 @@ Spring 2016
 
 theme color: #50E3C2;
 */
+body{
+	color: #000000;
+}
+
 
 
 .col-sm-fifth{ /* modified column small class to fit five nicely*/
@@ -29,7 +33,7 @@ theme color: #50E3C2;
 }
 
 .bg-light-gray{
-	background-color: #F7F7F7;
+	background-color: #F7F7F7; /* gray */
 	
 }
 
@@ -38,15 +42,17 @@ theme color: #50E3C2;
 }
 
 .navbar-default .navbar-nav>li>a{ /* navigation text color*/
-	color: #000000;
+	/*color: #2c3e50;*/ /* navy */
+	color: #000000; /* black */
 }
 
-.navbar-default .navbar-nav>li>a:focus{ /* navigation when at part of page*/
-	background-color: #000000;
+.navbar-default .navbar-nav>li>a:focus{ /* navigation when clicked*/
+	/*background-color: #000000;*/
 }
 
 .navbar-default .navbar-brand{ /* top left logo color*/
-	color: #000000;
+	/*color: #2c3e50;*/ /* navy */
+	color: #000000; /* black */
 }
 
 /* hovor over logo corner*/
@@ -61,11 +67,12 @@ theme color: #50E3C2;
 }
 
 #overview{
-	
+	background-color: #DDDDDD; /* darker gray*/
 }
 
 #video{
-	
+	background-color: #F7F7F7;
+	text-align: center;
 }
 
 #prototype{
@@ -73,8 +80,8 @@ theme color: #50E3C2;
 }
 
 #design{
-	background-color: #DDDDDD;
-	color: #2c3e50 !important;
+	background-color: #DDDDDD; /* darker gray*/
+	/*color: #2c3e50 !important;*/
 }
 
 #team{
@@ -84,7 +91,7 @@ theme color: #50E3C2;
 #documents{
 	
 }
-/* icons, easy to find codes and image examples on https://astronautweb.co/snippet/font-awesome/*/
+/* icons, easy to find codes and image examples on https://astronautweb.co/snippet/font-awesome/ or more updated: font-awesome's website*/
 .example:after{ /* example icon use from font-awesome */
 	content: "\f15c";
 	display: inline-block;
@@ -93,6 +100,34 @@ theme color: #50E3C2;
     font-family: FontAwesome;
     font-size: 2em;
 }
+
+.neighbors:after{
+	content: "\f0c0";
+	display: inline-block;
+    position: relative;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+.addfriend:after{
+	content: "\f234";
+	display: inline-block;
+    position: relative;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+.moreskills:after{
+	content: "\f201";
+	display: inline-block;
+    position: relative;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
 .report:after{ /* report icon*/
 	content: "\f15c";
 	display: inline-block;
@@ -111,7 +146,16 @@ theme color: #50E3C2;
     font-size: 2em;
 }
 
-.contextualinquiry:after{ /* digitalmockup icon*/
+.poster:after{ /* presentation icon*/
+	content: "\f298";
+	display: inline-block;
+    position: relative;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+.interviews:after{ /* digitalmockup icon*/
 	content: "\f129";
 	display: inline-block;
     position: relative;
