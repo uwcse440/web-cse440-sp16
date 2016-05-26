@@ -1,0 +1,20 @@
+.col-sm-fifth{
+	position:relative;
+	min-height:1px;
+	padding-right:15px;
+	padding-left:15px;
+	float:left;
+	width:20%;
+	text-align: center;
+}
+.testing{
+	border-color:red;
+	border-style: solid;
+	border-width: 1px
+	
+}
+
+.img-redone{
+	display: inline !important;
+	
+}
