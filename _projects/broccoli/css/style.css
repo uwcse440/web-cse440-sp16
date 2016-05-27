@@ -38,8 +38,8 @@ hr {
 }
 
 #menu, #gallery, #team, #contact {
-	padding-top: 100px;
-	padding-bottom: 100px;
+	padding-top: 80px;
+	padding-bottom: 80px;
 }
 #menu, #team {
   background: #E0EEE0;
@@ -111,7 +111,7 @@ hr {
 }
 .navbar-default .navbar-brand  {
   color: #5C5C5C;
-  font-size: 22px;
+  font-size: 20px;
   font-weight: bold;
   letter-spacing: 2px;
 }
@@ -139,7 +139,7 @@ hr {
   text-align: center;
 }
 #home h1 {
-  font-size: 20px;
+  font-size: 30px;
   letter-spacing: 8px;
   font-style: normal;
   padding-top: 10px;
@@ -209,13 +209,22 @@ hr {
 }
 #gallery h3 {
   font-size: 18px;
-  line-height: 8px;
+  line-height: 1.5;
+  text-align: center
 }
 
+.problemfontsize {
+    font-size: 20px;
+    line-height: 2
+}
+
+.problemfontsize2 {
+    font-size: 20px;
+}
 /* contact section */
 #contact {
   padding-top: 80px;
-  padding-bottom: 100px;
+  padding-bottom: 80px;
 }
 #contact .col-md-8 {
   margin-bottom: 32px;
@@ -315,8 +324,8 @@ footer .fa {
 #copyright {
   background: #343434;
   color: #ffffff;
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 40px;
+  padding-bottom: 40px;
   text-align: center;
 }
 #copyright p {
