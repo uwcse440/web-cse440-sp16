@@ -1,0 +1,37 @@
+@import url(http://db.onlinewebfonts.com/c/dfd7729cbbe856d9ebedc50bbed9d46d?family=Abadi+MT+Condensed+Light);
+
+@font-face {font-family: "Abadi MT Condensed Light";
+    src: url("http://db.onlinewebfonts.com/t/dfd7729cbbe856d9ebedc50bbed9d46d.eot");
+    src: url("http://db.onlinewebfonts.com/t/dfd7729cbbe856d9ebedc50bbed9d46d.eot?#iefix") format("embedded-opentype"),
+    url("http://db.onlinewebfonts.com/t/dfd7729cbbe856d9ebedc50bbed9d46d.woff2") format("woff2"),
+    url("http://db.onlinewebfonts.com/t/dfd7729cbbe856d9ebedc50bbed9d46d.woff") format("woff"),
+    url("http://db.onlinewebfonts.com/t/dfd7729cbbe856d9ebedc50bbed9d46d.ttf") format("truetype"),
+    url("http://db.onlinewebfonts.com/t/dfd7729cbbe856d9ebedc50bbed9d46d.svg#Abadi MT Condensed Light") format("svg");
+}
+
+body {
+  font-family: 'Abadi MT Condensed Light';
+}
+/* Remove the navbar's default margin-bottom and rounded borders */ 
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+.navbar-brand>h1 {
+  color: #EE414B;
+  font-weight: bold;
+  padding: auto;
+}
+
+/* Set black background color, white text and some padding */
+footer {
+  background-color: #555;
+  color: white;
+  padding: 15px;
+}
+
+/* On small screens, set height to 'auto' for sidenav and grid */
+@media screen and (max-width: 767px) {
+  .row.content {height:auto;} 
+}
