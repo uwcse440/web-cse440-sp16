@@ -12,26 +12,48 @@
 body {
   font-family: 'Abadi MT Condensed Light';
 }
+
+.row {
+  padding-left: 5%;
+  padding-right: 5%;
+}
 /* Remove the navbar's default margin-bottom and rounded borders */ 
 .navbar {
   margin-bottom: 0;
   border-radius: 0;
 }
 
-.navbar-brand>h1 {
+.navbar-brand {
   color: #EE414B;
   font-weight: bold;
   padding: auto;
 }
 
 /* Set black background color, white text and some padding */
-footer {
+footer.container-fluid {
   background-color: #555;
   color: white;
-  padding: 15px;
+  padding: 0px;
 }
 
 /* On small screens, set height to 'auto' for sidenav and grid */
 @media screen and (max-width: 767px) {
   .row.content {height:auto;} 
+}
+
+.mockup {
+  max-height: 400px;
+}
+
+.img-circle {
+  height: 250px;
+  width: 250px;
+}
+
+.overview {
+  font-size: 15pt;
+}
+
+.design {
+  font-size: 15pt;
 }
