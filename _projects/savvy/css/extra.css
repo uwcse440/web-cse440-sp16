@@ -9,7 +9,15 @@ body{
 	color: #000000;
 }
 
+.processdescription{
+	text-align: justify;
+    text-justify: inter-word;
+	margin: 2%;
+}
 
+.processdescriptiondiv{
+	
+}
 
 .col-sm-fifth{ /* modified column small class to fit five nicely*/
 	position:relative;
@@ -129,7 +137,7 @@ body{
 }
 
 .report:after{ /* report icon*/
-	content: "\f15c";
+	content: "\f15c"; /*"\f0f6";*/
 	display: inline-block;
     position: relative;
     padding: 0 .25em;
@@ -138,7 +146,7 @@ body{
 }
 
 .presentation:after{ /* presentation icon*/
-	content: "\f108";
+	content: "\f108";   /*"\f26c";*/
 	display: inline-block;
     position: relative;
     padding: 0 .25em;
@@ -147,7 +155,7 @@ body{
 }
 
 .poster:after{ /* presentation icon*/
-	content: "\f298";
+	content: "\f247";/*"\f133";/*"\f298"; /*"\f1c5";*/
 	display: inline-block;
     position: relative;
     padding: 0 .25em;
