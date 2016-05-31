@@ -24,7 +24,7 @@ link_project_4e_website: https://canvas.uw.edu/courses/1039440/assignments/31912
 date_project_4e: Monday, June 6, 2016
 
 # Poster Session
-date_project_4f: 12:30 to 2:30, Tuesday, June 7, 2016
+date_project_4f: 1:00 to 2:00, Tuesday, June 7, 2016
 
 ---
 
