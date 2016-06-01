@@ -3,6 +3,15 @@ footer {
 	background-color: #222;
 	color: white;
 }
+h6 {
+	font-style: italic;
+}
+#paperProto {
+	background-color: #32cd32;
+}
+.mockup {
+	margin-bottom: 50px;
+}
 .team-member {
 	text-align:center;
 	margin-bottom:50px
