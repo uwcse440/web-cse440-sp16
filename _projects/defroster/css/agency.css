@@ -3,6 +3,12 @@ footer {
 	background-color: #222;
 	color: white;
 }
+
+video {
+	width: 75%;
+	margin-left: 12%;
+}
+
 h6 {
 	font-style: italic;
 }
