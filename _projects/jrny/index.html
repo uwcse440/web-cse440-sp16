@@ -1,130 +1,328 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <title>JRNY</title>
-  <meta charset="utf-8">
-  <link rel="icon" type="image/png" href="img/logo.png" sizes="16x16">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-  <link href="//db.onlinewebfonts.com/c/dfd7729cbbe856d9ebedc50bbed9d46d?family=Abadi+MT+Condensed+Light" rel="stylesheet" type="text/css"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css">
-  <script src="https://use.fontawesome.com/ade0ee2929.js"></script>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>JRNY</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+
+    <!-- Custom Fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css" type="text/css">
+
+    <!-- Plugin CSS -->
+    <link rel="stylesheet" href="css/magnific-popup.css" type="text/css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/creative.css" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
 </head>
-<body>
 
-<nav class="navbar navbar-inverse">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>                        
-      </button>
-      <a class="navbar-brand" href="#overview"><img src="img/logo.png" height="50px"></a>
-      <h1 class="navbar-brand">JRNY</h1>
-    </div>
-    <div class="collapse navbar-collapse navbar-right" id="myNavbar">
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="#overview"><h3>Overview</h3></a></li>
-        <li><a href="#video"><h3>Video</h3></a></li>
-        <li><a href="#design"><h3>Design</h3></a></li>
-        <li><a href="#documents"><h3>Documents</h3></a></li>
-        <li><a href="#team"><h3>Team</h3></a></li>
-      </ul>
-    </div>
-  </div>
-</nav>
-  
-<div class="container-fluid text-center">   
-  <section class="overview">
-    <div class="row content">
-      <div class="col-md-12"> 
-        <a name="overview"><h1 class="title">Overview</h1></a>
-        <p>America is currently home to over eight million1 unemployed adults, 27.6%2 of which are considered “long-term unemployed”. People who are part of this category struggle to find jobs for different reasons such as lack of education or a deficiency in marketable skills. Statistics show that 2.8%3 of people with Bachelor’s degrees still find themselves without a job. For those who are stuck in a perpetual cycle of unemployment and rejection, we believe pursuing a trade skill is a viable alternative. With the Baby Boomer generation (the population that comprises the majority of skilled trade positions) rapidly retiring, as many as 62% of firms are struggling to fill open positions. In fact, 31 million positions are expected to open by 2020 as a result of projected retirement trends4. However, society does not emphasize the importance and benefits of learning trades as much as it does higher education and white collar jobs, as seen by the fact that in a study conducted, only 16% of high school students were planning on taking vocational classes. The focus of our design is to provide members of a community with a mobile app that is centered on both interpersonal and personal development in the trade world. If a user wants to search for trade opportunities, they are walked through a questionnaire that narrows down their search to a field that would best match their personality, interests, and more. At the end, they are shown nearby mentors to begin chatting with them, and hopefully, begin an apprenticeship with one of them. If a user wants to focus on personal growth in their area of trade, they can view the number of “experience points” they have earned from learning/practicing certain skills, and recommended skills to tackle next. They can gain points by doing in-app exercises that help reinforce basic concepts of certain skills.</p>
-        <hr>
-      </div>
-    </div>
-  </section>
+<body id="page-top">
 
-  <section class="video">
-    <div class="row content">
-      <div class="col-md-2"></div>
-      <div class="col-md-8">
-        <a name="video"><h1 class="title">Prototype Video</h1></a>
-        <div class="embed-responsive embed-responsive-16by9">
-          <iframe class="embed-responsive" autoplay=0 id="ytplayer" type="text/html" width="640" height="390" src="https://www.youtube.com/embed/M7lc1UVf-VE?autoplay=1&origin=http://example.com"></iframe>
-        </div>
-      </div> 
-      <div class="col-md-2"></div>
-      <hr>
-    </div>
-  </section>
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">JRNY<img src="img/Logo.png" height="20px"></a>
+            </div>
 
-  <section class="design">
-    <div class="row content">
-      <div class="col-md-12">
-        <a name="design"><h1 class="title">Design</h1></a>
-      </div>
-      <div class="row content">
-        <div class="col-md-4">
-          <img src="img/map.png" class="img-fluid mockup">
-          <p>The map functionality provides first time users a look at the trades and opportunities in their own communities</p>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a class="page-scroll" href="#about">Overview</a>
+                    <li>
+                        <a class="page-scroll" href="#process">Process</a>
+                    </li>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#solution">Solution</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#video">Demo</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#documents">Documents</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#team">Team</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
         </div>
-        <div class="col-md-4">
-          <img src="img/dashboard.png" class="img-fluid mockup">
-          <p>A dashboard provides all the pertinant information when opening the app, including current progress and recommendations.</p>
-        </div>
-        <div class="col-md-4">
-          <img src="img/maplist.png" class="img-fluid mockup">
-          <p>Utilizing user reviews allows the system to regulate content and provide relevant information to users.</p>
-        </div>
-      </div>
-      <hr>
-    </div>
-  </section>
+        <!-- /.container-fluid -->
+    </nav>
 
-  <section class="documents">
-    <div class="row content">
-      <div class="col-md-12">
-        <a name="documents"><h1 class="title">Documents</h1></a>
-      </div>
-      <div class="row content">
-        <div class="col-md-3">
-          <p><a href="docs/first-report.pdf"><i class="fa fa-file-pdf-o fa-5x" aria-hidden="true"></i></a></p>
-          <h3>Report 1</h3>
+    <header>
+        <div class="header-content">
+            <div class="header-content-inner">
+                <h1>"Start your journey"</h1>
+                <hr>
+                <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
+            </div>
         </div>
-        <div class="col-md-3">
-          <p><a href="docs/first-presentation.pdf"><i class="fa fa-line-chart fa-5x" aria-hidden="true"></i></a></p>
-          <h3>Presentation 1</h3>
-        </div>
-        <div class="col-md-3">
-           <p><a href="docs/first-report.pdf"><i class="fa fa-file-pdf-o fa-5x" aria-hidden="true"></i></a></p>
-          <h3>Report 2</h3>
-        </div>
-        <div class="col-md-3">
-          <p><a href="docs/first-presentation.pdf"><i class="fa fa-line-chart fa-5x" aria-hidden="true"></i></a></p>
-          <h3>Presentation 2</h3>
-        </div>
-        <hr>
-      </div>
-  </section>
+    </header>
 
-<section class="team">
-  <footer class="container-fluid">
-    <div class="row content">
-      <a name="team"><h1 class="title">Team</h1></a>
-      <div class="col-md-1"></div>
-      <div class="col-md-2"><p><img src="img/grace.jpg" class="img-fluid img-circle"></p><h3>Grace Qiu</h3></div>
-      <div class="col-md-2"><p><img src="img/bruce.jpg" class="img-fluid img-circle"></p><h3>Bruce Wen</h3></div>
-      <div class="col-md-2"><p><img src="img/austin.png" class="img-fluid img-circle"></p><h3>Austin Meyers</h3></div>
-      <div class="col-md-2"><p><img src="img/joe.jpg" class="img-fluid img-circle"></p><h3>Joe Santino</h3></div>
-      <div class="col-md-2"><p><img src="img/jon.jpg" class="img-fluid img-circle"></p><h3>Jon Oh</h3></div>
-      <div class="col-md-1"></div>
-    </div>
-  </footer>
-</section>
-</div>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
-<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <section class="bg-primary" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Problem Overview</h2>
+                    <hr class="light">
+                    <p>America is currently home to over eight million unemployed adults, 27.6%2 of which are considered “long-term unemployed”. People who are part of this category struggle to find jobs for different reasons such as lack of education or a deficiency in marketable skills. The focus of our design is to provide members of a community with a mobile app that is centered on both interpersonal and personal development in the trade world. If a user wants to search for trade opportunities, they are walked through a questionnaire that narrows down their search to a field that would best match their personality, interests, and more. At the end, they are shown nearby mentors to begin chatting with them, and hopefully, begin an apprenticeship with one of them. If a user wants to focus on personal growth in their area of trade, they can view the number of “experience points” they have earned from learning/practicing certain skills, and recommended skills to tackle next. They can gain points by doing in-app exercises that help reinforce basic concepts of certain skills.</p>
+                    <a href="#solution" class="page-scroll btn btn-default btn-xl sr-button">Process!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        <section id="process">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Design Process</h2>
+                </div>
+            </div>
+            <hr>
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="timeline">
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/problem.png" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4 class="subheading">Defining the Problem</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">The first step in the user centered design process is to define the problem. Our team worked together to list the most pervasive problems in our own communities.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/research.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4 class="subheading">User Reasearch</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">We conducted user research to better understand the needs of our potentail users. This included interviewing 3 members of our user group to understand their context.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/ideas.png" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4 class="subheading">Ideation</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Our team sketched our ideas on paper, and then worked together to iterate on our best designs. We created initial prototype sketches as well as storyboards to convey our ideas to different stakeholders.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/design.png" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>July 2014</h4>
+                                    <h4 class="subheading">Prototyping</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">We moved our best ideas to paper in the form of a paper prototype. This allowed us to conduct hueristic evaluations and user testing to refine our design.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                        <a href="#solution" class="page-scroll">
+                            <div class="timeline-image">
+                                <h4>See
+                                    <br>Our
+                                    <br>Solution!</h4>
+                            </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="solution">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Our Solution</h2>
+                    <hr class="primary">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <img class="img-responsive" src="img/dashboard.png">
+                        <h3>Start a Journey</h3>
+                        <p class="text-muted">View your personal progress, as well as any connections you have with a trade master.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <img class="img-responsive" src="img/match.png">
+                        <h3>Find a Match</h3>
+                        <p class="text-muted">Answer short questions to see what field is right for you, and members of your community teaching valuable skills.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <img class="img-responsive" src="img/track.png">
+                        <h3>Track Progress</h3>
+                        <p class="text-muted">Track your skill level throughout the training process. Earn more points to become a master in the field.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <img class="img-responsive" src="img/quiz.png">
+                        <h3>Practice Skills</h3>
+                        <p class="text-muted">Take quizzes to test your knowledge of the trade. Input skills you have mastered to be verified by professionals.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <aside class="bg-dark" id="video">
+        <div class="container text-center">
+            <div class="call-to-action">
+                <h2>Video Demo</h2>
+                <hr class="light">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/wi6KeXfQL_A" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </aside>
+
+        <section class="bg-primary" id="documents">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Our Documents</h2>
+                    <hr class="light">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <a class="light" href="docs/first-report.pdf"><i class="fa fa-file-pdf-o fa-5x sr-contact" aria-hidden="true"></i>
+                        <h3>Report 1: Getting the Right Design</h3></a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <a class="light" href="docs/first-presentation.pdf"><i class="fa fa-file-powerpoint-o fa-5x sr-contact" aria-hidden="true"></i>
+                        <h3>Presentation 1</h3></a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <a class="light" href="docs/second-report.pdf"><i class="fa fa-file-pdf-o fa-5x sr-contact" aria-hidden="true"></i>
+                        <h3>Report 2: Getting the Design Right</h3></a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <a class="light" href="docs/second-presentation.pdf"><i class="fa fa-file-powerpoint-o fa-5x sr-contact" aria-hidden="true"></i>
+                        <h3>Presentation 2</h3></a>                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="team">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Our Team</h2>
+                    <hr class="primary">
+                </div>
+                <div class="col-lg-2 col-lg-offset-1 text-center">
+                    <img src="img/austin.png" class="img-circle img-responsive square">
+                    <h5>Austin Meyers | HCDE</h5>
+                    <span><a href="mailto:arm38@uw.edu">arm38@uw.edu</a></span>
+                </div>
+                <div class="col-lg-2 text-center">
+                    <img src="img/bruce.jpg" class="img-circle img-responsive square">
+                    <h5>Bruce Wen | CSE</h5>
+                    <span><a href="mailto:qw9@uw.edu">qw9@uw.edu</a></span>
+                </div>
+                <div class="col-lg-2 text-center">
+                    <img src="img/grace.jpg" class="img-circle img-responsive square">
+                    <h5>Grace Qiu | CSE</h5>
+                    <span><a href="mailto:graceqiu@uw.edu">graceqiu@uw.edu</a></span>
+                </div>
+                <div class="col-lg-2 text-center">
+                    <img src="img/joe.jpg" class="img-circle img-responsive square">
+                    <h5>Joe Santino | CSE</h5>
+                    <span><a href="mailto:jsantino@uw.edu">jsantino@uw.edu</a></span>
+                </div>
+                <div class="col-lg-2 text-center">
+                    <img src="img/jon.jpg" class="img-circle img-responsive square">
+                    <h5>Jonathan Oh | MSE</h5>
+                    <span><a href="mailto:ohjs@uw.edu">ohjs@uw.edu</a></span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="js/scrollreveal.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/jquery.fittext.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/creative.js"></script>
+
 </body>
+
 </html>
