@@ -9,13 +9,58 @@ body{
 	color: #000000;
 }
 
+.fa-3x,.fa-4x{
+	color: #009688;
+}
+
+.star-light7:after,.star-light6:after,.star-light4:after,.star-light3:after{ /* all the stars except under logo, version without ':after' will change the line behind*/
+	color: #009688;
+}
+
+.footer{
+	background-color: #50E3C2;
+	color: #000000;
+}
+
+.footimg{
+	display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-top: 0px;
+	margin-bottom: 8px;
+}
+
+.foot{
+	display: inline-block;
+	padding-top: 1em;
+}
+
+#instructions{
+	font-size: 1.25em;
+	/*list-style-type:none;*/
+	margin: 1%;
+	text-align: justify;
+}
+
+.paper_screens{
+	padding: 6px;
+    float: left;
+    display: block;
+	width: 24.99999%;
+}
+
 .processdescription{
 	text-align: justify;
     text-justify: inter-word;
 	margin: 2%;
+	margin-top:0px;
 }
 
 .processdescriptiondiv{
+	
+}
+
+.interactive:focus{
 	
 }
 
@@ -68,7 +113,16 @@ body{
 	/*color: #50E3C2;*/
 }
 
+.sketch{
+	padding: 6px;
+    float: left;
+    display: block;
+}
 
+h4{
+	clear:left;
+	padding-top:1em;
+}
 
 #page-top{
 	
