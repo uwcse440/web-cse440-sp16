@@ -59,6 +59,11 @@
 .page-section.intro .container{
 	color: white;
 	background-color: #333333;
+	opacity: 0.8;
+}
+
+#video-player {
+	max-width: 100%;
 	opacity: 0.6;
 }
 
@@ -144,7 +149,31 @@ body {
 	font-size: 1.4em;
 }
 
+#prototype h3 {
+	font-size: 2em;
+}
 
+#prototype .row {
+	margin-bottom: 20px;
+}
+
+.col-xs-3 img{
+    height: 400px;
+}
+
+#arrow {
+	width: 80%;
+  margin-top: 200px;
+}
+
+.col-xs-3 img{
+    height: 400px;
+}
+
+#arrow {
+	width: 80%;
+  margin-top: 200px;
+}
 
 @media (min-width: 768px) {
 	.header .navbar-brand {

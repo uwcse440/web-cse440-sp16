@@ -1,0 +1,48 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.wrapper {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.center {
+  text-align: center;
+}
+
+.spacer {
+  padding: 30px;
+}
+
+.spacer2{
+	padding: 50px;
+}
+.section-heading {
+  margin-bottom: 30px;
+}
+
+.team-pic {
+  margin-bottom: 20px;
+}
+
+.branding-green {
+  color: rgb(0, 164, 12);
+  border-bottom: 3px dotted rgb(0, 164, 12);
+}
+
+section {
+  padding: 40px 0px 0px 0px;
+}
+
+.navbar {
+  background-color: #333333;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color:white
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  color:rgb(0, 164, 12);
+}
