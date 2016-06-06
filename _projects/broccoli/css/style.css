@@ -98,6 +98,12 @@ hr {
             transform: scale(1);
     opacity: 0; } }
 
+/* overall formatting */
+.section-title {
+  font-size: 25px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
 
 /* start navigation */
 .navbar-default {
