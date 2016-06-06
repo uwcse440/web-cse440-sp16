@@ -1,4 +1,70 @@
-.col-sm-fifth{
+/*
+css tweaks for neighborly project website
+CSE 440
+Spring 2016
+
+theme color: #50E3C2;
+*/
+body{
+	color: #000000;
+}
+
+.fa-3x,.fa-4x{
+	color: #009688;
+}
+
+.star-light7:after,.star-light6:after,.star-light4:after,.star-light3:after{ /* all the stars except under logo, version without ':after' will change the line behind*/
+	color: #009688;
+}
+
+.footer{
+	background-color: #50E3C2;
+	color: #000000;
+}
+
+.footimg{
+	display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-top: 0px;
+	margin-bottom: 8px;
+}
+
+.foot{
+	display: inline-block;
+	padding-top: 1em;
+}
+
+#instructions{
+	font-size: 1.25em;
+	/*list-style-type:none;*/
+	margin: 1%;
+	text-align: justify;
+}
+
+.paper_screens{
+	padding: 6px;
+    float: left;
+    display: block;
+	width: 24.99999%;
+}
+
+.processdescription{
+	text-align: justify;
+    text-justify: inter-word;
+	margin: 2%;
+	margin-top:0px;
+}
+
+.processdescriptiondiv{
+	
+}
+
+.interactive:focus{
+	
+}
+
+.col-sm-fifth{ /* modified column small class to fit five nicely*/
 	position:relative;
 	min-height:1px;
 	padding-right:15px;
@@ -14,7 +80,187 @@
 	
 }
 
-.img-redone{
+.img-redone{ /* to get the pics in my modified fifth class to center*/
 	display: inline !important;
 	
+}
+
+.bg-light-gray{
+	background-color: #F7F7F7; /* gray */
+	
+}
+
+.navbar-default{ /* nav bar background*/
+	background: #f7f7f7;
+}
+
+.navbar-default .navbar-nav>li>a{ /* navigation text color*/
+	/*color: #2c3e50;*/ /* navy */
+	color: #000000; /* black */
+}
+
+.navbar-default .navbar-nav>li>a:focus{ /* navigation when clicked*/
+	/*background-color: #000000;*/
+}
+
+.navbar-default .navbar-brand{ /* top left logo color*/
+	/*color: #2c3e50;*/ /* navy */
+	color: #000000; /* black */
+}
+
+/* hovor over logo corner*/
+.navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus{
+	/*color: #50E3C2;*/
+}
+
+.sketch{
+	padding: 6px;
+    float: left;
+    display: block;
+}
+
+h4{
+	clear:left;
+	padding-top:1em;
+}
+
+#page-top{
+	
+}
+
+#overview{
+	background-color: #DDDDDD; /* darker gray*/
+}
+
+#video{
+	background-color: #F7F7F7;
+	text-align: center;
+}
+
+#prototype{
+	
+}
+
+#design{
+	background-color: #DDDDDD; /* darker gray*/
+	/*color: #2c3e50 !important;*/
+}
+
+#team{
+	
+}
+
+#documents{
+	
+}
+/* icons, easy to find codes and image examples on https://astronautweb.co/snippet/font-awesome/ or more updated: font-awesome's website*/
+.example:after{ /* example icon use from font-awesome */
+	content: "\f15c";
+	display: inline-block;
+    position: relative;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+.neighbors:after{
+	content: "\f0c0";
+	display: inline-block;
+    position: relative;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+.addfriend:after{
+	content: "\f234";
+	display: inline-block;
+    position: relative;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+.moreskills:after{
+	content: "\f201";
+	display: inline-block;
+    position: relative;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+.report:after{ /* report icon*/
+	content: "\f15c"; /*"\f0f6";*/
+	display: inline-block;
+    position: relative;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+.presentation:after{ /* presentation icon*/
+	content: "\f108";   /*"\f26c";*/
+	display: inline-block;
+    position: relative;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+.poster:after{ /* presentation icon*/
+	content: "\f247";/*"\f133";/*"\f298"; /*"\f1c5";*/
+	display: inline-block;
+    position: relative;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+.interviews:after{ /* digitalmockup icon*/
+	content: "\f129";
+	display: inline-block;
+    position: relative;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+.taskanalysis:after{ /* digitalmockup icon*/
+	content: "\f00b";
+	display: inline-block;
+    position: relative;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+.sketches:after{ /* digitalmockup icon*/
+	content: "\f040";
+	display: inline-block;
+    position: relative;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+.usabilitytesting:after{ /* digitalmockup icon*/
+	content: "\f007";
+	display: inline-block;
+    position: relative;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+.paperprototype:after{ /* digitalmockup icon*/
+	content: "\f016";
+	display: inline-block;
+    position: relative;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+.digitalmockup:after{ /* digitalmockup icon*/
+	content: "\f10b";
+	display: inline-block;
+    position: relative;
+    font-family: FontAwesome;
+    font-size: 2em;
 }

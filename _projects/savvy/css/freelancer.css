@@ -6,6 +6,7 @@
 
 body {
     overflow-x: hidden;
+	/*color: #000000;*/
 }
 
 p {
@@ -22,7 +23,9 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #18bc9c;
+	color: #000000;
+	/*color: #2c3e50;*/ /* some of the section's text color*/
+    /*color: #50E3C2;*/
 }
 
 h1,
@@ -58,20 +61,200 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: #fff;
+    border-color: #000;
 }
 
 hr.star-light:after {
-    color: #fff;
-    background-color: #18bc9c;
+    /*color: #000;*/
+    background-color: #50E3C2;
 }
 
 hr.star-primary {
-    border-color: #2c3e50;
+    /*border-color: #2c3e50;*/
 }
 
 hr.star-primary:after {
-    color: #2c3e50;
+    /*color: #2c3e50;*/
+    background-color: #fff;
+}
+
+hr.star-light2,
+hr.star-primary {
+    margin: 25px auto 30px;
+    padding: 0;
+    max-width: 250px;
+    border: 0;
+    border-top: solid 5px;
+    text-align: center;
+}
+
+hr.star-light2:after,
+hr.star-primary:after {
+    content: "\f005";
+    display: inline-block;
+    position: relative;
+    top: -.8em;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+hr.star-light2 {
+    /*border-color: #fff;*/
+}
+
+hr.star-light2:after {
+    /*color: #fff;*/
+    background-color: #18bc9c;
+}
+
+hr.star-light3,
+hr.star-primary {
+    margin: 25px auto 30px;
+    padding: 0;
+    max-width: 250px;
+    border: 0;
+    border-top: solid 5px;
+    text-align: center;
+}
+
+hr.star-light3:after,
+hr.star-primary:after {
+    content: "\f005";
+    display: inline-block;
+    position: relative;
+    top: -.8em;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+hr.star-light3 {
+    /*border-color: #000;*/
+}
+
+hr.star-light3:after {
+    /*color: #000;*/
+    background-color: #fff;
+}
+
+hr.star-light4,
+hr.star-primary {
+    margin: 25px auto 30px;
+    padding: 0;
+    max-width: 250px;
+    border: 0;
+    border-top: solid 5px;
+    text-align: center;
+}
+
+hr.star-light4:after,
+hr.star-primary:after {
+    content: "\f005";
+    display: inline-block;
+    position: relative;
+    top: -.8em;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+hr.star-light4 {
+    /*border-color: #000;*/
+}
+
+hr.star-light4:after {
+    /*color: #000;*/
+    background-color: #F7F7F7;
+}
+
+hr.star-light5,
+hr.star-primary {
+    margin: 25px auto 30px;
+    padding: 0;
+    max-width: 250px;
+    border: 0;
+    border-top: solid 5px;
+    text-align: center;
+}
+
+hr.star-light5:after,
+hr.star-primary:after {
+    content: "\f005";
+    display: inline-block;
+    position: relative;
+    top: -.8em;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+hr.star-light5 {
+    /*border-color: #000;*/
+}
+
+hr.star-light5:after {
+    /*color: #000;*/
+    background-color: #5CD65C;
+}
+
+
+hr.star-light6,
+hr.star-primary {
+    margin: 25px auto 30px;
+    padding: 0;
+    max-width: 250px;
+    border: 0;
+    border-top: solid 5px;
+    text-align: center;
+}
+
+hr.star-light6:after,
+hr.star-primary:after {
+    content: "\f005";
+    display: inline-block;
+    position: relative;
+    top: -.8em;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+hr.star-light6 {
+    /*border-color: #000;*/
+}
+
+hr.star-light6:after {
+    /*color: #000;*/
+    background-color: #DDDDDD;
+}
+
+hr.star-light7,
+hr.star-primary {
+    margin: 25px auto 30px;
+    padding: 0;
+    max-width: 250px;
+    border: 0;
+    border-top: solid 5px;
+    text-align: center;
+}
+
+
+
+hr.star-light7:after,
+hr.star-primary:after {
+    content: "\f005";
+    display: inline-block;
+    position: relative;
+    top: -.8em;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+#video{
+    
+}
+hr.star-light7 { /* line color*/
+    /*border-color: #000;*/
+}
+
+hr.star-light7:after {
+    /*color: #000;*/
     background-color: #fff;
 }
 
@@ -81,8 +264,9 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
-    background: #18bc9c;
+    color: #000;
+	background: #50E3C2;
+    /*background: #18bc9c;*/
 }
 
 header .container {
@@ -182,6 +366,7 @@ section h2 {
 section.success {
     color: #fff;
     background: #18bc9c;
+	/*background: #50E3C2;*/
 }
 
 section.success a,
@@ -274,7 +459,7 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: #50E3C2;
     background: #fff;
 }
 
@@ -327,7 +512,7 @@ section.success a.active {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #18bc9c;
+    color: #50E3C2;
 }
 
 form .row:first-child .floating-label-form-group {

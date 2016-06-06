@@ -59,11 +59,15 @@
 .page-section.intro .container{
 	color: white;
 	background-color: #333333;
+<<<<<<< HEAD
 	opacity: 0.8;
 }
 
 #video-player {
 	max-width: 100%;
+=======
+	opacity: 0.6;
+>>>>>>> upstream/master
 }
 
 .img-rounded {
@@ -148,6 +152,7 @@ body {
 	font-size: 1.4em;
 }
 
+<<<<<<< HEAD
 #prototype h3 {
 	font-size: 2em;
 }
@@ -166,6 +171,8 @@ body {
 }
 
 
+=======
+>>>>>>> upstream/master
 
 
 @media (min-width: 768px) {
